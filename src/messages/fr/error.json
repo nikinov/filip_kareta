@@ -1,0 +1,13 @@
+{
+  "title": "Quelque chose s'est mal passé",
+  "description": "Nous avons rencontré une erreur inattendue. Veuillez essayer d'actualiser la page ou nous contacter si le problème persiste.",
+  "tryAgain": "Réessayer",
+  "goHome": "Accueil",
+  "contactPrompt": "Si le problème persiste, veuillez nous contacter:",
+  "contactSupport": "Contacter le support",
+  "alternativeContact": "Ou contactez-nous directement:",
+  "phone": "Téléphone",
+  "email": "E-mail",
+  "technicalDetails": "Détails techniques",
+  "errorId": "ID d'erreur"
+}

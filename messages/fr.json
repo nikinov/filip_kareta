@@ -1,0 +1,212 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "tours": "Visites",
+    "blog": "Blog",
+    "about": "À propos",
+    "contact": "Contact",
+    "book": "Réserver"
+  },
+  "homepage": {
+    "seo": {
+      "title": "Filip Kareta - Guide touristique de Prague | Visites authentiques avec narration",
+      "description": "Découvrez Prague à travers des visites authentiques avec narration avec le guide local Filip Kareta. Découvrez des joyaux cachés, une histoire fascinante et la culture locale avec des visites à pied personnalisées.",
+      "keywords": "guide touristique Prague, visites à pied Prague, visites château de Prague, vieille ville Prague, quartier juif Prague, visites histoire Prague, guide local Prague, expérience authentique Prague, visites narration Prague, visites privées Prague"
+    },
+    "hero": {
+      "title": "Découvrez Prague à travers des histoires",
+      "subtitle": "Rejoignez Filip pour des visites à pied authentiques qui donnent vie à l'histoire de Prague grâce à des récits captivants",
+      "primaryCta": "Réservez votre visite",
+      "secondaryCta": "Regarder la vidéo"
+    },
+    "featuredTours": {
+      "title": "Visites recommandées",
+      "subtitle": "Découvrez Prague comme jamais auparavant avec nos aventures de narration les plus populaires",
+      "bookNow": "Réserver maintenant",
+      "viewAllCta": "Voir toutes les visites"
+    },
+    "socialProof": {
+      "title": "Ce que disent nos invités",
+      "subtitle": "Expériences réelles de voyageurs qui ont découvert Prague avec Filip"
+    },
+    "aboutFilip": {
+      "label": "Votre Guide",
+      "title": "Rencontrez Filip, votre conteur de Prague",
+      "description1": "Né et élevé à Prague, Filip partage la magie de sa ville depuis plus de 12 ans. En tant que guide licencié avec une passion pour la narration, il transforme chaque visite en un voyage inoubliable dans le temps.",
+      "description2": "Des légendes du château de Prague aux mystères de la vieille ville, les récits authentiques de Filip révèlent l'âme de Prague que les guides touristiques ne peuvent pas capturer.",
+      "quote": "Chaque pierre de Prague a une histoire à raconter. Mon travail est de vous aider à écouter.",
+      "primaryCta": "Réserver une visite avec Filip",
+      "secondaryCta": "Lire l'histoire de Filip",
+      "followLabel": "Suivez les aventures de Filip à Prague"
+    }
+  },
+  "tours": {
+    "seo": {
+      "title": "Visites de Prague | Visites à pied authentiques avec Filip Kareta",
+      "description": "Explorez Prague avec des visites à pied authentiques dirigées par le guide local Filip Kareta. Choisissez parmi les visites du château de Prague, de la vieille ville, du quartier juif et plus encore. Réservez votre aventure narrative aujourd'hui.",
+      "keywords": "visites Prague, visites à pied Prague, visite château Prague, visite vieille ville Prague, visite quartier juif, guide Prague, visite touristique Prague, visites histoire Prague, visites authentiques Prague, visites privées Prague"
+    },
+    "title": "Visites de Prague",
+    "subtitle": "Choisissez votre aventure",
+    "viewAll": "Voir toutes les visites",
+    "duration": "Durée",
+    "groupSize": "Taille max du groupe",
+    "maxGroupSize": "Taille max du groupe",
+    "difficulty": "Difficulté",
+    "from": "À partir de",
+    "bookNow": "Réserver maintenant",
+    "learnMore": "En savoir plus",
+    "viewDetails": "Voir les détails",
+    "price": "Prix",
+    "person": "personne",
+    "people": "personnes",
+    "reviews": "avis",
+    "highlights": "Points forts",
+    "included": "Inclus",
+    "meetingPoint": "Point de rendez-vous",
+    "importantNotes": "Notes importantes",
+    "itinerary": "Itinéraire détaillé",
+    "nextAvailable": "Prochaine disponibilité",
+    "spotsLeft": "places restantes",
+    "fullyBooked": "Complet",
+    "available": "Disponible",
+    "easy": "Facile",
+    "moderate": "Modéré",
+    "challenging": "Difficile"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "tours": "Visites",
+    "about": "À propos de Filip",
+    "contact": "Contact",
+    "book": "Réserver",
+    "blog": "Blog",
+    "settings": "Paramètres",
+    "installApp": "Installer l'app",
+    "enableNotifications": "Activer les notifications"
+  },
+  "pwa": {
+    "updateAvailable": "Mise à jour disponible",
+    "updateDescription": "Une nouvelle version de l'application est disponible avec des améliorations et des corrections de bugs.",
+    "update": "Mettre à jour",
+    "updating": "Mise à jour en cours...",
+    "later": "Plus tard",
+    "updateInstalled": "App mise à jour !",
+    "updateInstalledDescription": "Vous utilisez maintenant la dernière version.",
+    "updateError": "Erreur de mise à jour",
+    "installPromptTitle": "Installer l'app Visites de Prague",
+    "installPromptDescription": "Obtenez l'expérience complète avec accès hors ligne et chargement plus rapide !",
+    "install": "Installer",
+    "offlineAccess": "Accès hors ligne",
+    "fastLoading": "Chargement rapide",
+    "nativeFeel": "Sensation native"
+  },
+  "booking": {
+    "title": "Réservez votre visite",
+    "selectDate": "Sélectionner la date",
+    "selectTime": "Sélectionner l'heure",
+    "selectDateTime": "Sélectionner date et heure",
+    "groupSize": "Taille du groupe",
+    "howManyPeople": "Combien de personnes ?",
+    "yourDetails": "Vos détails",
+    "yourInformation": "Vos informations",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "email": "Adresse e-mail",
+    "phone": "Numéro de téléphone",
+    "specialRequests": "Demandes spéciales",
+    "specialRequestsPlaceholder": "Restrictions alimentaires, besoins de mobilité ou intérêts particuliers ?",
+    "contactInfo": "Informations de contact",
+    "payment": "Paiement",
+    "confirmation": "Confirmation",
+    "reviewBooking": "Réviser et confirmer",
+    "reviewYourBooking": "Réviser votre réservation",
+    "date": "Date",
+    "time": "Heure",
+    "name": "Nom",
+    "total": "Total",
+    "confirmBooking": "Confirmer la réservation",
+    "booking": "Réservation en cours...",
+    "bookingConfirmation": "En confirmant, vous acceptez nos conditions générales. Vous recevrez un e-mail de confirmation sous peu.",
+    "mobileBookingTip": "Astuce : Vous pouvez sauvegarder cette réservation comme brouillon et la compléter plus tard si nécessaire.",
+    "bookingSuccess": "Réservation confirmée !",
+    "bookingSuccessMessage": "Merci d'avoir réservé avec Filip ! Vous recevrez un e-mail de confirmation avec tous les détails sous peu.",
+    "bookingError": "Échec de la réservation",
+    "bookingErrorMessage": "Nous sommes désolés, mais il y a eu une erreur lors du traitement de votre réservation. Veuillez réessayer ou nous contacter directement.",
+    "paymentRequired": "Paiement requis",
+    "paymentProcessing": "Traitement du paiement...",
+    "paymentSuccess": "Paiement réussi",
+    "paymentError": "Échec du paiement"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Quelque chose s'est mal passé",
+    "retry": "Réessayer",
+    "close": "Fermer",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Sauvegarder",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "confirm": "Confirmer",
+    "yes": "Oui",
+    "no": "Non",
+    "ok": "OK",
+    "back": "Retour",
+    "continue": "Continuer",
+    "finish": "Terminer"
+  },
+  "about": {
+    "seo": {
+      "title": "À propos de Filip Kareta | Votre guide conteur de Prague",
+      "description": "Rencontrez Filip Kareta, votre guide touristique local de Prague avec plus de 12 ans d'expérience. Découvrez des histoires authentiques et des joyaux cachés de Prague avec un conteur local passionné.",
+      "keywords": "Filip Kareta, guide touristique Prague, guide local Prague, conteur Prague, visites authentiques Prague, guide licencié Prague, expert histoire Prague, expérience locale Prague"
+    },
+    "title": "À propos de Filip",
+    "subtitle": "Votre guide conteur local",
+    "sectionTitle": "Conteur passionné de Prague",
+    "description1": "Avec plus de 10 ans d'expérience à guider les visiteurs dans les rues enchanteresses de Prague, Filip donne vie à l'histoire grâce à des récits captivants et des aperçus locaux que vous ne trouverez dans aucun guide touristique.",
+    "description2": "Né et élevé à Prague, Filip a une connaissance intime des joyaux cachés de la ville, des contes légendaires et des nuances culturelles qui font de chaque visite une expérience unique et mémorable.",
+    "credential1": "Guide touristique licencié de Prague",
+    "credential2": "Parle couramment anglais, allemand et tchèque",
+    "credential3": "1000+ Voyageurs heureux"
+  },
+  "blog": {
+    "seo": {
+      "title": "Histoires de Prague & Conseils de voyage | Blog de Filip Kareta",
+      "description": "Découvrez Prague à travers des histoires locales, des conseils de voyage et des guides d'initiés. Des points de vue cachés aux recommandations culinaires, explorez Prague comme un local avec Filip Kareta.",
+      "keywords": "blog Prague, conseils voyage Prague, histoires Prague, guide nourriture Prague, histoire Prague, photographie Prague, guide local Prague, conseils initiés Prague, culture tchèque, légendes Prague"
+    },
+    "title": "Histoires et aperçus de Prague",
+    "subtitle": "Découvrez la magie de Prague à travers des histoires locales, des conseils d'initiés et des expériences authentiques partagées par votre guide Filip Kareta.",
+    "search": {
+      "placeholder": "Rechercher des articles de blog..."
+    },
+    "archive": {
+      "title": "Archives du blog",
+      "description": "Parcourez toutes les histoires de Prague et les aperçus de voyage organisés par date. Découvrez des joyaux cachés, des conseils locaux et des récits fascinants des années de Filip en tant que guide à Prague."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Filip Kareta - Guide touristique de Prague. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "offlineTitle": "Vous êtes hors ligne",
+  "offlineDescription": "Aucune connexion Internet détectée. Vous pouvez toujours parcourir les informations de visite mises en cache, mais la réservation nécessite une connexion Internet.",
+  "offlineFeatures": "Disponible hors ligne:",
+  "offlineBrowseTours": "Parcourir les informations de visite",
+  "offlineReadBlog": "Lire les articles de blog",
+  "offlineViewPhotos": "Voir les photos mises en cache",
+  "offlineContactInfo": "Accéder aux informations de contact",
+  "offlineCheckConnection": "Vérifier la connexion",
+  "offlineEmergencyContact": "Pour les réservations urgentes, appelez directement:",
+  "offlineConnectionLost": "Connexion perdue",
+  "offlineLimitedFunctionality": "Certaines fonctionnalités peuvent être limitées",
+  "notFoundTitle": "Page non trouvée",
+  "notFoundDescription": "Il semble que vous vous soyez égaré ! Cette page n'existe pas, mais Prague a de nombreux endroits incroyables à explorer.",
+  "notFoundGoHome": "Accueil",
+  "notFoundBrowseTours": "Parcourir les visites"
+}

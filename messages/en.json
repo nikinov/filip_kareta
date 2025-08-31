@@ -1,0 +1,211 @@
+{
+  "navigation": {
+    "home": "Home",
+    "tours": "Tours",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "book": "Book Now"
+  },
+  "homepage": {
+    "seo": {
+      "title": "Filip Kareta - Prague Tour Guide | Authentic Storytelling Tours",
+      "description": "Discover Prague through authentic storytelling tours with local guide Filip Kareta. Experience hidden gems, fascinating history, and local culture with personalized walking tours.",
+      "keywords": "Prague tour guide, Prague walking tours, Prague Castle tours, Old Town Prague, Jewish Quarter Prague, Prague history tours, local Prague guide, authentic Prague experience, Prague storytelling tours, private Prague tours"
+    },
+    "hero": {
+      "title": "Discover Prague Through Stories",
+      "subtitle": "Join Filip for authentic walking tours that bring Prague's history to life through captivating storytelling",
+      "primaryCta": "Book Your Tour",
+      "secondaryCta": "Watch Video"
+    },
+    "featuredTours": {
+      "title": "Featured Tours",
+      "subtitle": "Experience Prague like never before with our most popular storytelling adventures",
+      "bookNow": "Book Now",
+      "viewAllCta": "View All Tours"
+    },
+    "socialProof": {
+      "title": "What Our Guests Say",
+      "subtitle": "Real experiences from travelers who discovered Prague with Filip"
+    },
+    "aboutFilip": {
+      "label": "Your Guide",
+      "title": "Meet Filip, Your Prague Storyteller",
+      "description1": "Born and raised in Prague, Filip has been sharing the magic of his city for over 12 years. As a licensed guide with a passion for storytelling, he transforms every tour into an unforgettable journey through time.",
+      "description2": "From the legends of Prague Castle to the mysteries of the Old Town, Filip's authentic narratives reveal the soul of Prague that guidebooks can't capture.",
+      "quote": "Every stone in Prague has a story to tell. My job is to help you listen.",
+      "primaryCta": "Book a Tour with Filip",
+      "secondaryCta": "Read Filip's Story",
+      "followLabel": "Follow Filip's Prague Adventures"
+    }
+  },
+  "tours": {
+    "seo": {
+      "title": "Prague Tours | Authentic Walking Tours with Filip Kareta",
+      "description": "Explore Prague with authentic walking tours led by local guide Filip Kareta. Choose from Prague Castle, Old Town, Jewish Quarter tours and more. Book your storytelling adventure today.",
+      "keywords": "Prague tours, Prague walking tours, Prague Castle tour, Old Town Prague tour, Jewish Quarter tour, Prague guide, Prague sightseeing, Prague history tours, authentic Prague tours, private Prague tours"
+    },
+    "title": "Prague Tours",
+    "subtitle": "Choose your adventure",
+    "viewAll": "View All Tours",
+    "duration": "Duration",
+    "groupSize": "Max Group Size",
+    "difficulty": "Difficulty",
+    "from": "From",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "price": "Price",
+    "person": "person",
+    "people": "people",
+    "reviews": "reviews",
+    "highlights": "Highlights",
+    "included": "What's Included",
+    "meetingPoint": "Meeting Point",
+    "importantNotes": "Important Notes",
+    "itinerary": "Detailed Itinerary",
+    "nextAvailable": "Next Available",
+    "spotsLeft": "spots left",
+    "fullyBooked": "Fully Booked",
+    "available": "Available",
+    "easy": "Easy",
+    "moderate": "Moderate",
+    "challenging": "Challenging"
+  },
+  "booking": {
+    "title": "Book Your Tour",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "selectDateTime": "Select Date & Time",
+    "groupSize": "Group Size",
+    "howManyPeople": "How many people?",
+    "yourDetails": "Your Details",
+    "yourInformation": "Your Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "specialRequests": "Special Requests",
+    "specialRequestsPlaceholder": "Any dietary restrictions, mobility needs, or special interests?",
+    "contactInfo": "Contact Information",
+    "payment": "Payment",
+    "confirmation": "Confirmation",
+    "reviewBooking": "Review & Confirm",
+    "reviewYourBooking": "Review Your Booking",
+    "date": "Date",
+    "time": "Time",
+    "name": "Name",
+    "total": "Total",
+    "confirmBooking": "Confirm Booking",
+    "booking": "Booking...",
+    "bookingConfirmation": "By confirming, you agree to our terms and conditions. You will receive a confirmation email shortly.",
+    "mobileBookingTip": "Tip: You can save this booking as a draft and complete it later if needed.",
+    "bookingSuccess": "Booking Confirmed!",
+    "bookingSuccessMessage": "Thank you for booking with Filip! You will receive a confirmation email with all the details shortly.",
+    "bookingError": "Booking Failed",
+    "bookingErrorMessage": "We're sorry, but there was an error processing your booking. Please try again or contact us directly.",
+    "paymentRequired": "Payment Required",
+    "paymentProcessing": "Processing Payment...",
+    "paymentSuccess": "Payment Successful",
+    "paymentError": "Payment Failed"
+  },
+  "navigation": {
+    "home": "Home",
+    "tours": "Tours",
+    "about": "About Filip",
+    "contact": "Contact",
+    "book": "Book",
+    "blog": "Blog",
+    "settings": "Settings",
+    "installApp": "Install App",
+    "enableNotifications": "Enable Notifications"
+  },
+  "pwa": {
+    "updateAvailable": "Update Available",
+    "updateDescription": "A new version of the app is available with improvements and bug fixes.",
+    "update": "Update",
+    "updating": "Updating...",
+    "later": "Later",
+    "updateInstalled": "App Updated!",
+    "updateInstalledDescription": "You're now using the latest version.",
+    "updateError": "Update Error",
+    "installPromptTitle": "Install Prague Tours App",
+    "installPromptDescription": "Get the full experience with offline access and faster loading!",
+    "install": "Install",
+    "offlineAccess": "Offline Access",
+    "fastLoading": "Fast Loading",
+    "nativeFeel": "Native Feel"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "back": "Back",
+    "continue": "Continue",
+    "finish": "Finish"
+  },
+  "about": {
+    "seo": {
+      "title": "About Filip Kareta | Your Prague Storytelling Guide",
+      "description": "Meet Filip Kareta, your local Prague tour guide with over 12 years of experience. Discover authentic stories and hidden gems of Prague with a passionate local storyteller.",
+      "keywords": "Filip Kareta, Prague tour guide, local guide Prague, Prague storyteller, authentic Prague tours, licensed Prague guide, Prague history expert, local Prague experience"
+    },
+    "title": "About Filip",
+    "subtitle": "Your local storytelling guide",
+    "sectionTitle": "Passionate Prague Storyteller",
+    "description1": "With over 10 years of experience guiding visitors through Prague's enchanting streets, Filip brings history to life through captivating stories and local insights that you won't find in any guidebook.",
+    "description2": "Born and raised in Prague, Filip has an intimate knowledge of the city's hidden gems, legendary tales, and cultural nuances that make each tour a unique and memorable experience.",
+    "credential1": "Licensed Prague Tour Guide",
+    "credential2": "Fluent in English, German, and Czech",
+    "credential3": "1000+ Happy Travelers"
+  },
+  "blog": {
+    "seo": {
+      "title": "Prague Stories & Travel Tips | Filip Kareta's Blog",
+      "description": "Discover Prague through local stories, travel tips, and insider guides. From hidden viewpoints to food recommendations, explore Prague like a local with Filip Kareta.",
+      "keywords": "Prague blog, Prague travel tips, Prague stories, Prague food guide, Prague history, Prague photography, local Prague guide, Prague insider tips, Czech culture, Prague legends"
+    },
+    "title": "Prague Stories & Insights",
+    "subtitle": "Discover the magic of Prague through local stories, insider tips, and authentic experiences shared by your guide Filip Kareta.",
+    "search": {
+      "placeholder": "Search blog posts..."
+    },
+    "archive": {
+      "title": "Blog Archive",
+      "description": "Browse all Prague stories and travel insights organized by date. Discover hidden gems, local tips, and fascinating tales from Filip's years of guiding in Prague."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Filip Kareta - Prague Tour Guide. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "offlineTitle": "You're Offline",
+  "offlineDescription": "No internet connection detected. You can still browse cached tour information, but booking requires an internet connection.",
+  "offlineFeatures": "Available Offline:",
+  "offlineBrowseTours": "Browse tour information",
+  "offlineReadBlog": "Read blog posts",
+  "offlineViewPhotos": "View cached photos",
+  "offlineContactInfo": "Access contact information",
+  "offlineCheckConnection": "Check Connection",
+  "offlineEmergencyContact": "For urgent bookings, call directly:",
+  "offlineConnectionLost": "Connection Lost",
+  "offlineLimitedFunctionality": "Some features may be limited",
+  "notFoundTitle": "Page Not Found",
+  "notFoundDescription": "Looks like you've wandered off the beaten path! This page doesn't exist, but Prague has plenty of amazing places to explore.",
+  "notFoundGoHome": "Go Home",
+  "notFoundBrowseTours": "Browse Tours"
+}

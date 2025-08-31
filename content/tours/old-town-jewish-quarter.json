@@ -1,0 +1,261 @@
+{
+  "id": "old-town-jewish-quarter",
+  "slug": "old-town-jewish-quarter",
+  "title": {
+    "en": "Old Town & Jewish Quarter: Tales of Two Worlds",
+    "de": "Altstadt & Jüdisches Viertel: Geschichten zweier Welten",
+    "fr": "Vieille Ville & Quartier Juif: Contes de Deux Mondes"
+  },
+  "description": {
+    "en": "Journey through Prague's heart where medieval Christian and Jewish communities lived side by side for centuries. From the astronomical wonder of the Old Town Square to the poignant history of the Jewish Quarter, discover how two cultures shaped one magnificent city. Experience the magic of Prague's most iconic landmarks through the eyes of a local storyteller.",
+    "de": "Reisen Sie durch Prags Herz, wo mittelalterliche christliche und jüdische Gemeinden jahrhundertelang Seite an Seite lebten. Vom astronomischen Wunder des Altstädter Rings bis zur bewegenden Geschichte des Jüdischen Viertels entdecken Sie, wie zwei Kulturen eine prächtige Stadt formten. Erleben Sie die Magie von Prags ikonischsten Wahrzeichen durch die Augen eines lokalen Geschichtenerzählers.",
+    "fr": "Voyagez à travers le cœur de Prague où les communautés chrétiennes et juives médiévales ont vécu côte à côte pendant des siècles. De la merveille astronomique de la place de la Vieille Ville à l'histoire poignante du quartier juif, découvrez comment deux cultures ont façonné une ville magnifique. Vivez la magie des monuments les plus emblématiques de Prague à travers les yeux d'un conteur local."
+  },
+  "highlights": {
+    "en": [
+      "Marvel at the famous Astronomical Clock and its hourly show",
+      "Explore the historic Old Town Square with its Gothic and Baroque architecture",
+      "Visit the Old Jewish Cemetery, one of Europe's oldest",
+      "Discover the Old-New Synagogue, Europe's oldest active synagogue",
+      "Learn about the legend of Rabbi Löw and the Prague Golem",
+      "Walk through the atmospheric Jewish Quarter streets",
+      "Hear stories of coexistence and cultural exchange"
+    ],
+    "de": [
+      "Bestaunen Sie die berühmte Astronomische Uhr und ihre stündliche Show",
+      "Erkunden Sie den historischen Altstädter Ring mit seiner gotischen und barocken Architektur",
+      "Besuchen Sie den Alten Jüdischen Friedhof, einen der ältesten Europas",
+      "Entdecken Sie die Altneu-Synagoge, Europas älteste aktive Synagoge",
+      "Erfahren Sie mehr über die Legende von Rabbi Löw und dem Prager Golem",
+      "Spazieren Sie durch die atmosphärischen Straßen des Jüdischen Viertels",
+      "Hören Sie Geschichten über Koexistenz und kulturellen Austausch"
+    ],
+    "fr": [
+      "Admirez la célèbre horloge astronomique et son spectacle horaire",
+      "Explorez la place historique de la Vieille Ville avec son architecture gothique et baroque",
+      "Visitez l'ancien cimetière juif, l'un des plus anciens d'Europe",
+      "Découvrez la synagogue Vieille-Nouvelle, la plus ancienne synagogue active d'Europe",
+      "Apprenez la légende du rabbin Löw et du Golem de Prague",
+      "Promenez-vous dans les rues atmosphériques du quartier juif",
+      "Écoutez des histoires de coexistence et d'échange culturel"
+    ]
+  },
+  "duration": 150,
+  "maxGroupSize": 10,
+  "basePrice": 40,
+  "currency": "EUR",
+  "difficulty": "easy",
+  "images": [
+    {
+      "id": "old-town-square",
+      "url": "/images/tours/old-town-square.webp",
+      "alt": {
+        "en": "Old Town Square with Astronomical Clock and Gothic churches",
+        "de": "Altstädter Ring mit Astronomischer Uhr und gotischen Kirchen",
+        "fr": "Place de la Vieille Ville avec horloge astronomique et églises gothiques"
+      },
+      "caption": {
+        "en": "The heart of Prague - Old Town Square with its magnificent Astronomical Clock",
+        "de": "Das Herz Prags - Altstädter Ring mit seiner prächtigen Astronomischen Uhr",
+        "fr": "Le cœur de Prague - Place de la Vieille Ville avec sa magnifique horloge astronomique"
+      },
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "id": "astronomical-clock",
+      "url": "/images/tours/astronomical-clock.webp",
+      "alt": {
+        "en": "Detailed view of Prague's famous Astronomical Clock mechanism",
+        "de": "Detailansicht des berühmten Astronomischen Uhr-Mechanismus von Prag",
+        "fr": "Vue détaillée du mécanisme de la célèbre horloge astronomique de Prague"
+      },
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "id": "jewish-cemetery",
+      "url": "/images/tours/jewish-cemetery.webp",
+      "alt": {
+        "en": "Ancient tombstones in the Old Jewish Cemetery",
+        "de": "Alte Grabsteine im Alten Jüdischen Friedhof",
+        "fr": "Anciennes pierres tombales dans l'ancien cimetière juif"
+      },
+      "width": 1000,
+      "height": 750
+    }
+  ],
+  "route": [
+    {
+      "lat": 50.0875,
+      "lng": 14.4208,
+      "name": {
+        "en": "Old Town Square",
+        "de": "Altstädter Ring",
+        "fr": "Place de la Vieille Ville"
+      }
+    },
+    {
+      "lat": 50.0873,
+      "lng": 14.4205,
+      "name": {
+        "en": "Astronomical Clock",
+        "de": "Astronomische Uhr",
+        "fr": "Horloge Astronomique"
+      }
+    },
+    {
+      "lat": 50.0898,
+      "lng": 14.4177,
+      "name": {
+        "en": "Jewish Quarter Entrance",
+        "de": "Eingang zum Jüdischen Viertel",
+        "fr": "Entrée du Quartier Juif"
+      }
+    },
+    {
+      "lat": 50.0901,
+      "lng": 14.4175,
+      "name": {
+        "en": "Old Jewish Cemetery",
+        "de": "Alter Jüdischer Friedhof",
+        "fr": "Ancien Cimetière Juif"
+      }
+    },
+    {
+      "lat": 50.0904,
+      "lng": 14.4173,
+      "name": {
+        "en": "Old-New Synagogue",
+        "de": "Altneu-Synagoge",
+        "fr": "Synagogue Vieille-Nouvelle"
+      }
+    }
+  ],
+  "availability": [
+    {
+      "dayOfWeek": 1,
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 1,
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 2,
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 2,
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 3,
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 3,
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 4,
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 4,
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 5,
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 5,
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 6,
+      "startTime": "09:30",
+      "endTime": "12:00",
+      "maxBookings": 2
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-ot-1",
+      "tourId": "old-town-jewish-quarter",
+      "customerName": "David R.",
+      "rating": 5,
+      "comment": "Filip's knowledge of Jewish history in Prague is extraordinary. The tour was both educational and deeply moving. A perfect blend of history and storytelling.",
+      "date": "2024-03-20T00:00:00.000Z",
+      "source": "google",
+      "verified": true
+    },
+    {
+      "id": "review-ot-2",
+      "tourId": "old-town-jewish-quarter", 
+      "customerName": "Anna S.",
+      "rating": 5,
+      "comment": "The Astronomical Clock explanation was fascinating, but the Jewish Quarter stories were the real highlight. Filip brings history to life beautifully.",
+      "date": "2024-03-18T00:00:00.000Z",
+      "source": "tripadvisor",
+      "verified": true
+    },
+    {
+      "id": "review-ot-3",
+      "tourId": "old-town-jewish-quarter",
+      "customerName": "Robert T.",
+      "rating": 5,
+      "comment": "Exceptional tour! Filip's storytelling made the Old Town and Jewish Quarter come alive. Learned so much about Prague's rich cultural heritage.",
+      "date": "2024-03-16T00:00:00.000Z",
+      "source": "direct",
+      "verified": true
+    }
+  ],
+  "seoMetadata": {
+    "title": {
+      "en": "Old Town & Jewish Quarter Tour Prague | Historical Walking Tour with Filip",
+      "de": "Altstadt & Jüdisches Viertel Tour Prag | Historische Wanderung mit Filip",
+      "fr": "Visite Vieille Ville & Quartier Juif Prague | Tour historique à pied avec Filip"
+    },
+    "description": {
+      "en": "Discover Prague's Old Town and Jewish Quarter with expert guide Filip. Explore the Astronomical Clock, ancient synagogues, and learn about centuries of cultural coexistence. Book your authentic Prague walking tour!",
+      "de": "Entdecken Sie Prags Altstadt und Jüdisches Viertel mit Experten-Guide Filip. Erkunden Sie die Astronomische Uhr, alte Synagogen und erfahren Sie über jahrhundertelange kulturelle Koexistenz. Buchen Sie Ihre authentische Prag-Wanderung!",
+      "fr": "Découvrez la Vieille Ville et le Quartier Juif de Prague avec le guide expert Filip. Explorez l'horloge astronomique, les anciennes synagogues et apprenez des siècles de coexistence culturelle. Réservez votre visite authentique de Prague!"
+    },
+    "keywords": [
+      "Prague Old Town tour",
+      "Jewish Quarter Prague",
+      "Astronomical Clock tour",
+      "Prague walking tour",
+      "Jewish history Prague",
+      "Old Town Square",
+      "Prague synagogues",
+      "cultural tour Prague",
+      "historical walking tour",
+      "Prague guide Filip"
+    ],
+    "ogImage": "/images/tours/old-town-jewish-quarter-og.jpg",
+    "canonicalUrl": "/tours/old-town-jewish-quarter"
+  }
+}

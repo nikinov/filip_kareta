@@ -1,0 +1,308 @@
+{
+  "id": "lesser-town-castle-district",
+  "slug": "lesser-town-castle-district",
+  "title": {
+    "en": "Lesser Town & Castle District: Baroque Splendor & Royal Gardens",
+    "de": "Kleinseite & Burgviertel: Barocke Pracht & Königliche Gärten",
+    "fr": "Petit Côté & Quartier du Château: Splendeur Baroque & Jardins Royaux"
+  },
+  "description": {
+    "en": "Discover Prague's most elegant district where baroque palaces meet royal gardens. Walk through cobblestone streets lined with aristocratic mansions, explore hidden courtyards, and enjoy breathtaking views of the city. This intimate tour reveals the stories of nobles, artists, and revolutionaries who shaped Prague's golden age.",
+    "de": "Entdecken Sie Prags elegantestes Viertel, wo barocke Paläste auf königliche Gärten treffen. Spazieren Sie durch Kopfsteinpflasterstraßen gesäumt von aristokratischen Herrenhäusern, erkunden Sie versteckte Innenhöfe und genießen Sie atemberaubende Ausblicke auf die Stadt. Diese intime Tour enthüllt die Geschichten von Adligen, Künstlern und Revolutionären, die Prags goldenes Zeitalter prägten.",
+    "fr": "Découvrez le quartier le plus élégant de Prague où les palais baroques rencontrent les jardins royaux. Promenez-vous dans des rues pavées bordées de demeures aristocratiques, explorez des cours cachées et profitez de vues à couper le souffle sur la ville. Cette visite intime révèle les histoires des nobles, artistes et révolutionnaires qui ont façonné l'âge d'or de Prague."
+  },
+  "highlights": {
+    "en": [
+      "Explore the baroque splendor of Lesser Town Square",
+      "Visit the magnificent St. Nicholas Church with its stunning frescoes",
+      "Discover hidden palace courtyards and secret gardens",
+      "Walk through the romantic Kampa Island park",
+      "Learn about John Lennon Wall and its peaceful revolution story",
+      "Enjoy panoramic views from Petřín Hill",
+      "Experience the charm of Nerudova Street's historic houses"
+    ],
+    "de": [
+      "Erkunden Sie die barocke Pracht des Kleinseitner Rings",
+      "Besuchen Sie die prächtige St. Nikolaus-Kirche mit ihren atemberaubenden Fresken",
+      "Entdecken Sie versteckte Palast-Innenhöfe und geheime Gärten",
+      "Spazieren Sie durch den romantischen Kampa-Insel-Park",
+      "Erfahren Sie mehr über die John Lennon Wall und ihre friedliche Revolutionsgeschichte",
+      "Genießen Sie Panoramablicke vom Petřín-Hügel",
+      "Erleben Sie den Charme der historischen Häuser der Nerudova-Straße"
+    ],
+    "fr": [
+      "Explorez la splendeur baroque de la place du Petit Côté",
+      "Visitez la magnifique église Saint-Nicolas avec ses fresques époustouflantes",
+      "Découvrez des cours de palais cachées et des jardins secrets",
+      "Promenez-vous dans le parc romantique de l'île Kampa",
+      "Apprenez l'histoire du mur John Lennon et sa révolution pacifique",
+      "Profitez de vues panoramiques depuis la colline de Petřín",
+      "Vivez le charme des maisons historiques de la rue Nerudova"
+    ]
+  },
+  "duration": 165,
+  "maxGroupSize": 8,
+  "basePrice": 42,
+  "currency": "EUR",
+  "difficulty": "easy",
+  "images": [
+    {
+      "id": "lesser-town-square",
+      "url": "/images/tours/lesser-town-square.webp",
+      "alt": {
+        "en": "Baroque Lesser Town Square with St. Nicholas Church dome",
+        "de": "Barocker Kleinseitner Ring mit der Kuppel der St. Nikolaus-Kirche",
+        "fr": "Place baroque du Petit Côté avec le dôme de l'église Saint-Nicolas"
+      },
+      "caption": {
+        "en": "The heart of baroque Prague - Lesser Town Square with its magnificent architecture",
+        "de": "Das Herz des barocken Prags - Kleinseitner Ring mit seiner prächtigen Architektur",
+        "fr": "Le cœur du Prague baroque - Place du Petit Côté avec son architecture magnifique"
+      },
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "id": "john-lennon-wall",
+      "url": "/images/tours/john-lennon-wall.webp",
+      "alt": {
+        "en": "Colorful John Lennon Wall with peace messages and graffiti art",
+        "de": "Bunte John Lennon Wall mit Friedensbotschaften und Graffiti-Kunst",
+        "fr": "Mur coloré John Lennon avec messages de paix et art graffiti"
+      },
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "id": "kampa-island-park",
+      "url": "/images/tours/kampa-island-park.webp",
+      "alt": {
+        "en": "Peaceful Kampa Island park with Vltava River views",
+        "de": "Friedlicher Kampa-Insel-Park mit Blick auf die Moldau",
+        "fr": "Parc paisible de l'île Kampa avec vues sur la Vltava"
+      },
+      "width": 1400,
+      "height": 933
+    }
+  ],
+  "route": [
+    {
+      "lat": 50.0879,
+      "lng": 14.4037,
+      "name": {
+        "en": "Lesser Town Square",
+        "de": "Kleinseitner Ring",
+        "fr": "Place du Petit Côté"
+      }
+    },
+    {
+      "lat": 50.0881,
+      "lng": 14.4033,
+      "name": {
+        "en": "St. Nicholas Church",
+        "de": "St. Nikolaus-Kirche",
+        "fr": "Église Saint-Nicolas"
+      }
+    },
+    {
+      "lat": 50.0865,
+      "lng": 14.4067,
+      "name": {
+        "en": "Nerudova Street",
+        "de": "Nerudova-Straße",
+        "fr": "Rue Nerudova"
+      }
+    },
+    {
+      "lat": 50.0857,
+      "lng": 14.4074,
+      "name": {
+        "en": "John Lennon Wall",
+        "de": "John Lennon Wall",
+        "fr": "Mur John Lennon"
+      }
+    },
+    {
+      "lat": 50.0851,
+      "lng": 14.4089,
+      "name": {
+        "en": "Kampa Island",
+        "de": "Kampa-Insel",
+        "fr": "Île Kampa"
+      }
+    }
+  ],
+  "availability": [
+    {
+      "dayOfWeek": 1,
+      "startTime": "10:30",
+      "endTime": "13:15",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 2,
+      "startTime": "10:30",
+      "endTime": "13:15",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 3,
+      "startTime": "10:30",
+      "endTime": "13:15",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 4,
+      "startTime": "10:30",
+      "endTime": "13:15",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 5,
+      "startTime": "10:30",
+      "endTime": "13:15",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 6,
+      "startTime": "10:30",
+      "endTime": "13:15",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 0,
+      "startTime": "14:00",
+      "endTime": "16:45",
+      "maxBookings": 1
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-lt-1",
+      "tourId": "lesser-town-castle-district",
+      "customerName": "Isabella M.",
+      "rating": 5,
+      "comment": "Filip's knowledge of baroque architecture is incredible! The Lesser Town tour was like stepping back in time. His stories about the aristocratic families who lived in these palaces were fascinating.",
+      "date": "2024-03-22T00:00:00.000Z",
+      "source": "google",
+      "verified": true
+    },
+    {
+      "id": "review-lt-2",
+      "tourId": "lesser-town-castle-district",
+      "customerName": "Thomas K.",
+      "rating": 5,
+      "comment": "The John Lennon Wall story was incredibly moving. Filip explained the peaceful revolution context beautifully. The hidden gardens were a wonderful surprise!",
+      "date": "2024-03-19T00:00:00.000Z",
+      "source": "tripadvisor",
+      "verified": true
+    },
+    {
+      "id": "review-lt-3",
+      "tourId": "lesser-town-castle-district",
+      "customerName": "Marie D.",
+      "rating": 5,
+      "comment": "Perfect blend of history, architecture, and local stories. Filip's passion for Prague shines through every tale. The views from Petřín Hill were breathtaking!",
+      "date": "2024-03-17T00:00:00.000Z",
+      "source": "direct",
+      "verified": true
+    }
+  ],
+  "seoMetadata": {
+    "title": {
+      "en": "Lesser Town Prague Tour | Baroque Architecture & Royal Gardens with Filip",
+      "de": "Kleinseite Prag Tour | Barocke Architektur & Königliche Gärten mit Filip",
+      "fr": "Visite Petit Côté Prague | Architecture Baroque & Jardins Royaux avec Filip"
+    },
+    "description": {
+      "en": "Explore Prague's elegant Lesser Town with expert guide Filip. Discover baroque palaces, hidden gardens, and the famous John Lennon Wall. Small group walking tour with authentic local stories.",
+      "de": "Erkunden Sie Prags elegante Kleinseite mit Experten-Guide Filip. Entdecken Sie barocke Paläste, versteckte Gärten und die berühmte John Lennon Wall. Kleine Gruppenwanderung mit authentischen lokalen Geschichten.",
+      "fr": "Explorez l'élégant Petit Côté de Prague avec le guide expert Filip. Découvrez les palais baroques, jardins cachés et le célèbre mur John Lennon. Visite à pied en petit groupe avec histoires locales authentiques."
+    },
+    "keywords": [
+      "Lesser Town Prague tour",
+      "Prague baroque architecture",
+      "John Lennon Wall Prague",
+      "Kampa Island tour",
+      "Prague castle district",
+      "St Nicholas Church Prague",
+      "Nerudova Street tour",
+      "Prague walking tour",
+      "baroque Prague tour",
+      "Prague local guide"
+    ],
+    "ogImage": "/images/tours/lesser-town-og.jpg",
+    "canonicalUrl": "/tours/lesser-town-castle-district"
+  },
+  "detailedItinerary": {
+    "en": [
+      {
+        "time": "10:30",
+        "location": "Lesser Town Square",
+        "activity": "Introduction to baroque Prague and the aristocratic history of Lesser Town",
+        "duration": 20
+      },
+      {
+        "time": "10:50",
+        "location": "St. Nicholas Church",
+        "activity": "Explore the baroque masterpiece with its stunning dome and frescoes",
+        "duration": 25
+      },
+      {
+        "time": "11:15",
+        "location": "Nerudova Street",
+        "activity": "Walk the historic royal route and discover house signs and their meanings",
+        "duration": 30
+      },
+      {
+        "time": "11:45",
+        "location": "John Lennon Wall",
+        "activity": "Learn about the peaceful revolution and the wall's symbolic importance",
+        "duration": 20
+      },
+      {
+        "time": "12:05",
+        "location": "Kampa Island",
+        "activity": "Stroll through the romantic park and enjoy river views",
+        "duration": 25
+      },
+      {
+        "time": "12:30",
+        "location": "Hidden Palace Gardens",
+        "activity": "Discover secret courtyards and baroque garden architecture",
+        "duration": 25
+      },
+      {
+        "time": "12:55",
+        "location": "Petřín Hill Viewpoint",
+        "activity": "Panoramic views and final stories about Prague's golden age",
+        "duration": 20
+      }
+    ]
+  },
+  "includedServices": {
+    "en": [
+      "Expert local guide with baroque architecture expertise",
+      "Small group experience (max 8 people)",
+      "Access to hidden courtyards and gardens",
+      "Professional historical commentary",
+      "Photography tips and assistance",
+      "Digital tour materials and map",
+      "Insider recommendations for Prague exploration"
+    ]
+  },
+  "meetingPoint": {
+    "en": "Lesser Town Square, in front of the Plague Column",
+    "de": "Kleinseitner Ring, vor der Pestsäule",
+    "fr": "Place du Petit Côté, devant la colonne de la peste"
+  },
+  "importantNotes": {
+    "en": [
+      "Comfortable walking shoes recommended for cobblestone streets",
+      "Tour operates in all weather conditions",
+      "Some garden access may be seasonal",
+      "Photography allowed in most locations",
+      "Tour includes moderate uphill walking to Petřín Hill"
+    ]
+  }
+}

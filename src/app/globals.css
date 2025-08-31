@@ -1,0 +1,201 @@
+@import 'tailwindcss';
+
+/* Import mobile-specific optimizations */
+@import '../styles/mobile.css';
+
+:root {
+  /* Prague-themed color palette */
+  --background: #ffffff;
+  --foreground: #2c2c2c;
+
+  /* Prague Castle Gold */
+  --prague-gold: #d4af37;
+  --prague-gold-light: #e6c866;
+  --prague-gold-dark: #b8941f;
+
+  /* Charles Bridge Stone */
+  --prague-stone: #8b7355;
+  --prague-stone-light: #a68b6b;
+  --prague-stone-dark: #6b5a44;
+
+  /* Vltava River Blue */
+  --prague-blue: #4a90a4;
+  --prague-blue-light: #6ba5b8;
+  --prague-blue-dark: #357a8f;
+
+  /* Old Town Red */
+  --prague-red: #c44536;
+  --prague-red-light: #d66b5c;
+  --prague-red-dark: #a63529;
+
+  /* Prague Green (parks) */
+  --prague-green: #5a7c65;
+  --prague-green-light: #7a9c85;
+  --prague-green-dark: #4a6c55;
+
+  /* Neutral grays */
+  --gray-50: #f9fafb;
+  --gray-100: #f3f4f6;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-400: #9ca3af;
+  --gray-500: #6b7280;
+  --gray-600: #4b5563;
+  --gray-700: #374151;
+  --gray-800: #1f2937;
+  --gray-900: #111827;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  /* Prague color system */
+  --color-prague-gold: var(--prague-gold);
+  --color-prague-gold-light: var(--prague-gold-light);
+  --color-prague-gold-dark: var(--prague-gold-dark);
+
+  --color-prague-stone: var(--prague-stone);
+  --color-prague-stone-light: var(--prague-stone-light);
+  --color-prague-stone-dark: var(--prague-stone-dark);
+
+  --color-prague-blue: var(--prague-blue);
+  --color-prague-blue-light: var(--prague-blue-light);
+  --color-prague-blue-dark: var(--prague-blue-dark);
+
+  --color-prague-red: var(--prague-red);
+  --color-prague-red-light: var(--prague-red-light);
+  --color-prague-red-dark: var(--prague-red-dark);
+
+  --color-prague-green: var(--prague-green);
+  --color-prague-green-light: var(--prague-green-light);
+  --color-prague-green-dark: var(--prague-green-dark);
+
+  /* Primary brand colors */
+  --color-primary: var(--prague-gold);
+  --color-primary-foreground: var(--gray-900);
+  --color-secondary: var(--prague-stone);
+  --color-secondary-foreground: var(--background);
+  --color-accent: var(--prague-blue);
+  --color-accent-foreground: var(--background);
+
+  /* Semantic colors */
+  --color-success: var(--prague-green);
+  --color-warning: var(--prague-gold);
+  --color-error: var(--prague-red);
+
+  /* UI colors */
+  --color-border: var(--gray-200);
+  --color-input: var(--gray-100);
+  --color-ring: var(--prague-gold);
+  --color-muted: var(--gray-100);
+  --color-muted-foreground: var(--gray-600);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --color-border: var(--gray-700);
+    --color-input: var(--gray-800);
+    --color-muted: var(--gray-800);
+    --color-muted-foreground: var(--gray-400);
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    var(--font-sans),
+    system-ui,
+    -apple-system,
+    sans-serif;
+}
+
+/* Custom utility classes for Prague theme */
+.text-prague-gold {
+  color: var(--prague-gold);
+}
+
+.bg-prague-gold {
+  background-color: var(--prague-gold);
+}
+
+.border-prague-gold {
+  border-color: var(--prague-gold);
+}
+
+.text-prague-stone {
+  color: var(--prague-stone);
+}
+
+.bg-prague-stone {
+  background-color: var(--prague-stone);
+}
+
+.text-prague-blue {
+  color: var(--prague-blue);
+}
+
+.bg-prague-blue {
+  background-color: var(--prague-blue);
+}
+
+/* Smooth scrolling for better UX */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Focus styles for accessibility */
+*:focus-visible {
+  outline: 2px solid var(--prague-gold);
+  outline-offset: 2px;
+}
+
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--gray-100);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--prague-stone);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--prague-stone-dark);
+}
+
+/* Selection styles */
+::selection {
+  background-color: var(--prague-gold);
+  color: var(--gray-900);
+}
+
+/* Utility classes for common patterns */
+.glass-effect {
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.text-shadow {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.gradient-prague {
+  background: linear-gradient(135deg, var(--prague-gold), var(--prague-stone));
+}
+
+.gradient-text-prague {
+  background: linear-gradient(135deg, var(--prague-gold), var(--prague-stone));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

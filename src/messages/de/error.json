@@ -1,0 +1,13 @@
+{
+  "title": "Etwas ist schiefgelaufen",
+  "description": "Wir sind auf einen unerwarteten Fehler gestoßen. Bitte versuchen Sie, die Seite zu aktualisieren oder kontaktieren Sie uns, wenn das Problem weiterhin besteht.",
+  "tryAgain": "Erneut versuchen",
+  "goHome": "Zur Startseite",
+  "contactPrompt": "Falls das Problem weiterhin besteht, kontaktieren Sie uns:",
+  "contactSupport": "Support kontaktieren",
+  "alternativeContact": "Oder kontaktieren Sie uns direkt:",
+  "phone": "Telefon",
+  "email": "E-Mail",
+  "technicalDetails": "Technische Details",
+  "errorId": "Fehler-ID"
+}

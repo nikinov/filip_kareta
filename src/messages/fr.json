@@ -1,0 +1,77 @@
+{
+  "error": {
+    "title": "Quelque chose s'est mal passé",
+    "description": "Nous avons rencontré une erreur inattendue. Veuillez essayer d'actualiser la page ou nous contacter si le problème persiste.",
+    "tryAgain": "Réessayer",
+    "goHome": "Accueil",
+    "contactPrompt": "Si le problème persiste, veuillez nous contacter:",
+    "contactSupport": "Contacter le support",
+    "alternativeContact": "Ou contactez-nous directement:",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "technicalDetails": "Détails techniques",
+    "errorId": "ID d'erreur"
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "description": "Il semble que vous vous soyez égaré! Cette page n'existe pas, mais Prague a beaucoup d'endroits incroyables à explorer.",
+    "goHome": "Accueil",
+    "homeDescription": "Commencez votre voyage à Prague",
+    "browseTours": "Parcourir les tours",
+    "toursDescription": "Découvrez les expériences de Prague",
+    "popularPages": "Pages populaires",
+    "pragueCastle": "Visite du Château de Prague",
+    "castleDescription": "Explorez 1000 ans d'histoire",
+    "oldTown": "Visite à pied de la Vieille Ville",
+    "oldTownDescription": "Rues médiévales et légendes",
+    "jewishQuarter": "Visite du Quartier Juif",
+    "jewishDescription": "Histoires de résilience et de culture",
+    "aboutFilip": "À propos de Filip",
+    "aboutDescription": "Rencontrez votre conteur de Prague",
+    "readyToExplore": "Prêt à explorer Prague?",
+    "bookingPrompt": "Rejoignez Filip pour une expérience de narration inoubliable dans les rues historiques de Prague.",
+    "viewAllTours": "Voir toutes les visites",
+    "helpText": "Si vous cherchiez quelque chose de spécifique, essayez notre recherche ou parcourez nos visites ci-dessus."
+  },
+  "offline": {
+    "title": "Vous êtes hors ligne",
+    "description": "Aucune connexion Internet détectée. Vous pouvez toujours parcourir les informations de visite mises en cache, mais la réservation nécessite une connexion Internet.",
+    "offlineFeatures": "Disponible hors ligne:",
+    "browseTours": "Parcourir les informations de visite",
+    "readBlog": "Lire les articles de blog",
+    "viewPhotos": "Voir les photos mises en cache",
+    "contactInfo": "Accéder aux informations de contact",
+    "checkConnection": "Vérifier la connexion",
+    "emergencyContact": "Pour les réservations urgentes, appelez directement:",
+    "connectionLost": "Connexion perdue",
+    "limitedFunctionality": "Certaines fonctionnalités peuvent être limitées",
+    "availableOffline": "Disponible hors ligne:",
+    "features": {
+      "tourInfo": "Parcourir les informations de visite mises en cache",
+      "blogPosts": "Lire les articles de blog sauvegardés",
+      "aboutPage": "Voir le profil et l'histoire de Filip",
+      "contactInfo": "Accéder aux informations de contact"
+    },
+    "popularTours": "Visites populaires (Infos mises en cache)",
+    "bookingContact": {
+      "title": "Prêt à réserver? Contactez Filip directement:",
+      "phone": {
+        "title": "Appelez maintenant",
+        "hours": "Disponible 9h-18h CET"
+      },
+      "email": {
+        "title": "Envoyer un e-mail",
+        "response": "Réponse dans les 24 heures"
+      }
+    },
+    "bookingTemplate": {
+      "title": "Lors du contact, veuillez inclure:",
+      "tour": "La visite qui vous intéresse",
+      "date": "Votre date et heure préférées",
+      "group": "Nombre de personnes dans votre groupe",
+      "language": "Langue de visite préférée (EN/DE/FR)",
+      "contact": "Vos informations de contact"
+    },
+    "helpText": "Cette page se rafraîchira automatiquement lorsque votre connexion Internet sera rétablie."
+  }
+}

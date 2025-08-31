@@ -1,0 +1,37 @@
+{
+  "paymentError": {
+    "title": "Payment Issue",
+    "description": "There was a problem processing your payment. Please check your payment details and try again.",
+    "suggestion1": "Verify your card details are correct",
+    "suggestion2": "Check if your card has sufficient funds",
+    "suggestion3": "Try a different payment method"
+  },
+  "availabilityError": {
+    "title": "Tour Unavailable",
+    "description": "This tour is no longer available for your selected date and time.",
+    "suggestion1": "Try selecting a different date",
+    "suggestion2": "Consider a smaller group size",
+    "suggestion3": "Contact us for alternative options"
+  },
+  "genericError": {
+    "title": "Booking Error",
+    "description": "We encountered an issue while processing your booking. Please try again or contact us for assistance.",
+    "suggestion1": "Refresh the page and try again",
+    "suggestion2": "Clear your browser cache",
+    "suggestion3": "Contact us directly to complete your booking"
+  },
+  "suggestions": {
+    "title": "What you can try:"
+  },
+  "tryAgain": "Try Again",
+  "browseTours": "Browse Tours",
+  "directContact": {
+    "title": "Need immediate help?",
+    "phone": "Call Filip",
+    "email": "Send Message",
+    "emailDescription": "Get personal assistance"
+  },
+  "reassurance": "Don't worry - your tour spot isn't lost! We're here to help you complete your booking.",
+  "responseTime": "We typically respond within 2 hours during business hours.",
+  "technicalDetails": "Technical Details"
+}

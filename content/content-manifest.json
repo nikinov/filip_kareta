@@ -1,0 +1,297 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-03-29T00:00:00.000Z",
+  "languages": ["en", "de", "fr"],
+  "defaultLanguage": "en",
+  "content": {
+    "tours": {
+      "total": 3,
+      "published": 3,
+      "items": [
+        {
+          "id": "prague-castle",
+          "slug": "prague-castle",
+          "status": "published",
+          "lastModified": "2024-03-29T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "complete", 
+            "fr": "complete"
+          },
+          "seoOptimized": true,
+          "images": 3,
+          "reviews": 3
+        },
+        {
+          "id": "old-town-jewish-quarter",
+          "slug": "old-town-jewish-quarter", 
+          "status": "published",
+          "lastModified": "2024-03-29T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "complete",
+            "fr": "complete"
+          },
+          "seoOptimized": true,
+          "images": 3,
+          "reviews": 3
+        },
+        {
+          "id": "lesser-town-castle-district",
+          "slug": "lesser-town-castle-district",
+          "status": "published",
+          "lastModified": "2024-03-29T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "complete",
+            "fr": "complete"
+          },
+          "seoOptimized": true,
+          "images": 3,
+          "reviews": 3
+        }
+      ]
+    },
+    "blog": {
+      "total": 6,
+      "published": 6,
+      "items": [
+        {
+          "slug": "best-prague-viewpoints",
+          "status": "published",
+          "category": "Photography",
+          "lastModified": "2024-03-29T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "complete",
+            "fr": "complete"
+          },
+          "seoOptimized": true,
+          "wordCount": 2500,
+          "readingTime": 10
+        },
+        {
+          "slug": "prague-hidden-gems",
+          "status": "published",
+          "category": "Hidden Gems",
+          "lastModified": "2024-03-29T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "pending",
+            "fr": "pending"
+          },
+          "seoOptimized": true,
+          "wordCount": 3200,
+          "readingTime": 13
+        },
+        {
+          "slug": "prague-seasonal-guide",
+          "status": "published",
+          "category": "Travel Planning",
+          "lastModified": "2024-03-29T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "pending",
+            "fr": "pending"
+          },
+          "seoOptimized": true,
+          "wordCount": 2800,
+          "readingTime": 11
+        },
+        {
+          "slug": "prague-local-food-guide",
+          "status": "published",
+          "category": "Food & Culture",
+          "lastModified": "2024-03-29T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "pending",
+            "fr": "pending"
+          },
+          "seoOptimized": true,
+          "wordCount": 2600,
+          "readingTime": 10
+        },
+        {
+          "slug": "charles-bridge-legends",
+          "status": "published",
+          "category": "History & Legends",
+          "lastModified": "2024-03-15T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "complete",
+            "fr": "complete"
+          },
+          "seoOptimized": true,
+          "wordCount": 2200,
+          "readingTime": 9
+        },
+        {
+          "slug": "prague-photography-tips",
+          "status": "published",
+          "category": "Photography",
+          "lastModified": "2024-03-29T00:00:00.000Z",
+          "translations": {
+            "en": "complete",
+            "de": "pending",
+            "fr": "pending"
+          },
+          "seoOptimized": true,
+          "wordCount": 3500,
+          "readingTime": 14
+        }
+      ]
+    },
+    "reviews": {
+      "total": 127,
+      "featured": 3,
+      "recent": 5,
+      "averageRating": 4.9,
+      "sources": ["google", "tripadvisor", "direct"],
+      "lastUpdated": "2024-03-29T00:00:00.000Z"
+    },
+    "media": {
+      "images": {
+        "total": 45,
+        "optimized": 45,
+        "collections": ["prague-castle", "old-town", "hidden-prague"],
+        "formats": ["webp", "jpg"],
+        "totalSize": "12.5MB"
+      },
+      "videos": {
+        "total": 0,
+        "planned": 3,
+        "formats": ["mp4", "webm"]
+      }
+    }
+  },
+  "seo": {
+    "targetKeywords": [
+      "Prague tours",
+      "Prague guide",
+      "Prague Castle tour",
+      "Old Town Prague",
+      "Jewish Quarter Prague",
+      "Prague walking tours",
+      "authentic Prague tours",
+      "Prague storytelling tours",
+      "local Prague guide",
+      "Prague sightseeing"
+    ],
+    "contentGaps": [
+      "Prague Christmas markets guide",
+      "Prague with kids guide", 
+      "Prague photography workshops",
+      "Prague food tours",
+      "Prague nightlife guide"
+    ],
+    "competitorAnalysis": {
+      "lastUpdated": "2024-03-29T00:00:00.000Z",
+      "topCompetitors": [
+        "prague-tours.com",
+        "praguecitytourism.cz",
+        "viator.com/prague"
+      ],
+      "contentOpportunities": [
+        "Seasonal Prague guides",
+        "Local food experiences",
+        "Photography tutorials",
+        "Historical deep-dives"
+      ]
+    }
+  },
+  "translation": {
+    "workflow": {
+      "process": "professional-review",
+      "quality": "native-speaker",
+      "consistency": "terminology-database"
+    },
+    "status": {
+      "en": {
+        "tours": "100%",
+        "blog": "100%",
+        "ui": "100%",
+        "seo": "100%"
+      },
+      "de": {
+        "tours": "100%",
+        "blog": "60%",
+        "ui": "95%",
+        "seo": "90%"
+      },
+      "fr": {
+        "tours": "100%",
+        "blog": "60%",
+        "ui": "95%",
+        "seo": "90%"
+      }
+    },
+    "terminology": {
+      "tour": {
+        "en": "tour",
+        "de": "Tour",
+        "fr": "visite"
+      },
+      "guide": {
+        "en": "guide",
+        "de": "Guide",
+        "fr": "guide"
+      },
+      "booking": {
+        "en": "booking",
+        "de": "Buchung",
+        "fr": "réservation"
+      },
+      "castle": {
+        "en": "castle",
+        "de": "Burg",
+        "fr": "château"
+      },
+      "cathedral": {
+        "en": "cathedral",
+        "de": "Dom",
+        "fr": "cathédrale"
+      }
+    }
+  },
+  "contentStrategy": {
+    "goals": [
+      "Establish Filip as Prague's premier storytelling guide",
+      "Rank for high-value Prague tourism keywords",
+      "Build authentic local authority and trust",
+      "Convert blog readers to tour bookings"
+    ],
+    "targetAudience": {
+      "primary": "Cultural travelers aged 25-55",
+      "secondary": "Photography enthusiasts",
+      "tertiary": "History and architecture lovers"
+    },
+    "contentPillars": [
+      "Historical storytelling",
+      "Local insider knowledge", 
+      "Photography and visual content",
+      "Cultural authenticity"
+    ],
+    "publishingSchedule": {
+      "frequency": "2 posts per month",
+      "bestDays": ["Tuesday", "Thursday"],
+      "bestTimes": ["10:00 AM", "2:00 PM"]
+    }
+  },
+  "analytics": {
+    "tracking": {
+      "googleAnalytics": "GA4",
+      "searchConsole": "enabled",
+      "heatmaps": "planned",
+      "userFeedback": "enabled"
+    },
+    "kpis": [
+      "Organic search traffic",
+      "Blog-to-booking conversion rate",
+      "Average session duration",
+      "Pages per session",
+      "Bounce rate",
+      "Local search rankings"
+    ]
+  }
+}

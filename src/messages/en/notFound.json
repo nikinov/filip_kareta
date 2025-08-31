@@ -1,0 +1,21 @@
+{
+  "title": "Page Not Found",
+  "description": "Looks like you've wandered off the beaten path! This page doesn't exist, but Prague has plenty of amazing places to explore.",
+  "goHome": "Go Home",
+  "homeDescription": "Start your Prague journey",
+  "browseTours": "Browse Tours",
+  "toursDescription": "Discover Prague experiences",
+  "popularPages": "Popular Pages",
+  "pragueCastle": "Prague Castle Tour",
+  "castleDescription": "Explore 1000 years of history",
+  "oldTown": "Old Town Walking Tour",
+  "oldTownDescription": "Medieval streets and legends",
+  "jewishQuarter": "Jewish Quarter Tour",
+  "jewishDescription": "Stories of resilience and culture",
+  "aboutFilip": "About Filip",
+  "aboutDescription": "Meet your Prague storyteller",
+  "readyToExplore": "Ready to explore Prague?",
+  "bookingPrompt": "Join Filip for an unforgettable storytelling experience through Prague's historic streets.",
+  "viewAllTours": "View All Tours",
+  "helpText": "If you were looking for something specific, try using our search or browse our tours above."
+}

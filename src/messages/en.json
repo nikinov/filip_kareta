@@ -1,0 +1,114 @@
+{
+  "error": {
+    "title": "Something went wrong",
+    "description": "We encountered an unexpected error. Please try refreshing the page or contact us if the problem persists.",
+    "tryAgain": "Try Again",
+    "goHome": "Go Home",
+    "contactPrompt": "If the problem persists, please contact us:",
+    "contactSupport": "Contact Support",
+    "alternativeContact": "Or reach out directly:",
+    "phone": "Phone",
+    "email": "Email",
+    "technicalDetails": "Technical Details",
+    "errorId": "Error ID"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Looks like you've wandered off the beaten path! This page doesn't exist, but Prague has plenty of amazing places to explore.",
+    "goHome": "Go Home",
+    "homeDescription": "Start your Prague journey",
+    "browseTours": "Browse Tours",
+    "toursDescription": "Discover Prague experiences",
+    "popularPages": "Popular Pages",
+    "pragueCastle": "Prague Castle Tour",
+    "castleDescription": "Explore 1000 years of history",
+    "oldTown": "Old Town Walking Tour",
+    "oldTownDescription": "Medieval streets and legends",
+    "jewishQuarter": "Jewish Quarter Tour",
+    "jewishDescription": "Stories of resilience and culture",
+    "aboutFilip": "About Filip",
+    "aboutDescription": "Meet your Prague storyteller",
+    "readyToExplore": "Ready to explore Prague?",
+    "bookingPrompt": "Join Filip for an unforgettable storytelling experience through Prague's historic streets.",
+    "viewAllTours": "View All Tours",
+    "helpText": "If you were looking for something specific, try using our search or browse our tours above."
+  },
+  "offline": {
+    "title": "You're Offline",
+    "description": "No internet connection detected. You can still browse cached tour information, but booking requires an internet connection.",
+    "offlineFeatures": "Available Offline:",
+    "browseTours": "Browse tour information",
+    "readBlog": "Read blog posts",
+    "viewPhotos": "View cached photos",
+    "contactInfo": "Access contact information",
+    "checkConnection": "Check Connection",
+    "emergencyContact": "For urgent bookings, call directly:",
+    "connectionLost": "Connection Lost",
+    "limitedFunctionality": "Some features may be limited",
+    "availableOffline": "Available Offline:",
+    "features": {
+      "tourInfo": "Browse cached tour information",
+      "blogPosts": "Read saved blog posts",
+      "aboutPage": "View Filip's profile and story",
+      "contactInfo": "Access contact information"
+    },
+    "popularTours": "Popular Tours (Cached Info)",
+    "bookingContact": {
+      "title": "Ready to Book? Contact Filip Directly:",
+      "phone": {
+        "title": "Call Now",
+        "hours": "Available 9 AM - 6 PM CET"
+      },
+      "email": {
+        "title": "Send Email",
+        "response": "Response within 24 hours"
+      }
+    },
+    "bookingTemplate": {
+      "title": "When contacting, please include:",
+      "tour": "Which tour you're interested in",
+      "date": "Your preferred date and time",
+      "group": "Number of people in your group",
+      "language": "Preferred tour language (EN/DE/FR)",
+      "contact": "Your contact information"
+    },
+    "helpText": "This page will automatically refresh when your internet connection is restored."
+  },
+  "bookingError": {
+    "paymentError": {
+      "title": "Payment Issue",
+      "description": "There was a problem processing your payment. Please check your payment details and try again.",
+      "suggestion1": "Verify your card details are correct",
+      "suggestion2": "Check if your card has sufficient funds",
+      "suggestion3": "Try a different payment method"
+    },
+    "availabilityError": {
+      "title": "Tour Unavailable",
+      "description": "This tour is no longer available for your selected date and time.",
+      "suggestion1": "Try selecting a different date",
+      "suggestion2": "Consider a smaller group size",
+      "suggestion3": "Contact us for alternative options"
+    },
+    "genericError": {
+      "title": "Booking Error",
+      "description": "We encountered an issue while processing your booking. Please try again or contact us for assistance.",
+      "suggestion1": "Refresh the page and try again",
+      "suggestion2": "Clear your browser cache",
+      "suggestion3": "Contact us directly to complete your booking"
+    },
+    "suggestions": {
+      "title": "What you can try:"
+    },
+    "tryAgain": "Try Again",
+    "browseTours": "Browse Tours",
+    "directContact": {
+      "title": "Need immediate help?",
+      "phone": "Call Filip",
+      "email": "Send Message",
+      "emailDescription": "Get personal assistance"
+    },
+    "reassurance": "Don't worry - your tour spot isn't lost! We're here to help you complete your booking.",
+    "responseTime": "We typically respond within 2 hours during business hours.",
+    "technicalDetails": "Technical Details"
+  }
+}

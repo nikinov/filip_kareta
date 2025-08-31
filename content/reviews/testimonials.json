@@ -1,0 +1,197 @@
+{
+  "featured": [
+    {
+      "id": "testimonial-1",
+      "customerName": "Sarah Mitchell",
+      "customerLocation": "London, UK",
+      "tourId": "prague-castle",
+      "rating": 5,
+      "comment": {
+        "en": "Filip's storytelling brought Prague Castle to life in ways I never imagined! His deep knowledge of Czech history combined with his engaging personality made this the highlight of our Prague visit. The small group size allowed for personal interaction and questions. Absolutely unforgettable experience!",
+        "de": "Filips Geschichtenerzählen erweckte die Prager Burg auf eine Weise zum Leben, die ich mir nie vorgestellt hätte! Sein tiefes Wissen über die tschechische Geschichte kombiniert mit seiner einnehmenden Persönlichkeit machte dies zum Höhepunkt unseres Prag-Besuchs. Die kleine Gruppengröße ermöglichte persönliche Interaktion und Fragen. Absolut unvergessliches Erlebnis!",
+        "fr": "La narration de Filip a donné vie au château de Prague d'une manière que je n'avais jamais imaginée ! Sa connaissance approfondie de l'histoire tchèque combinée à sa personnalité engageante a fait de cette visite le point culminant de notre séjour à Prague. La petite taille du groupe a permis une interaction personnelle et des questions. Expérience absolument inoubliable !"
+      },
+      "date": "2024-03-15T00:00:00.000Z",
+      "source": "google",
+      "verified": true,
+      "photos": ["/images/reviews/sarah-mitchell-castle.jpg"],
+      "featured": true
+    },
+    {
+      "id": "testimonial-2",
+      "customerName": "Michael Weber",
+      "customerLocation": "Munich, Germany",
+      "tourId": "old-town-jewish-quarter",
+      "rating": 5,
+      "comment": {
+        "en": "As someone deeply interested in Jewish history, I was amazed by Filip's sensitive and knowledgeable approach to the Jewish Quarter. He shared stories that brought tears to my eyes and helped me understand Prague's complex past. His respect for the history and the people who lived it was evident throughout the tour.",
+        "de": "Als jemand, der sich sehr für jüdische Geschichte interessiert, war ich von Filips einfühlsamem und sachkundigem Ansatz zum Jüdischen Viertel begeistert. Er erzählte Geschichten, die mir Tränen in die Augen trieben und mir halfen, Prags komplexe Vergangenheit zu verstehen. Sein Respekt für die Geschichte und die Menschen, die sie erlebten, war während der gesamten Tour spürbar.",
+        "fr": "En tant que personne profondément intéressée par l'histoire juive, j'ai été émerveillé par l'approche sensible et savante de Filip du quartier juif. Il a partagé des histoires qui m'ont fait pleurer et m'ont aidé à comprendre le passé complexe de Prague. Son respect pour l'histoire et les gens qui l'ont vécue était évident tout au long de la visite."
+      },
+      "date": "2024-03-12T00:00:00.000Z",
+      "source": "tripadvisor",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": "testimonial-3",
+      "customerName": "Emma Thompson",
+      "customerLocation": "Sydney, Australia",
+      "tourId": "prague-castle",
+      "rating": 5,
+      "comment": {
+        "en": "Filip is not just a tour guide - he's a master storyteller who transforms historical facts into captivating narratives. Walking through Prague with him felt like traveling through time. His passion for his city is infectious, and his knowledge seems endless. This tour exceeded all our expectations!",
+        "de": "Filip ist nicht nur ein Tourguide - er ist ein Meister-Geschichtenerzähler, der historische Fakten in fesselnde Erzählungen verwandelt. Mit ihm durch Prag zu gehen fühlte sich an wie eine Zeitreise. Seine Leidenschaft für seine Stadt ist ansteckend und sein Wissen scheint endlos. Diese Tour übertraf all unsere Erwartungen!",
+        "fr": "Filip n'est pas seulement un guide touristique - c'est un maître conteur qui transforme les faits historiques en récits captivants. Se promener dans Prague avec lui, c'était comme voyager dans le temps. Sa passion pour sa ville est contagieuse et ses connaissances semblent infinies. Cette visite a dépassé toutes nos attentes !"
+      },
+      "date": "2024-03-10T00:00:00.000Z",
+      "source": "direct",
+      "verified": true,
+      "featured": true
+    }
+  ],
+  "recent": [
+    {
+      "id": "review-recent-1",
+      "customerName": "David R.",
+      "customerLocation": "New York, USA",
+      "tourId": "old-town-jewish-quarter",
+      "rating": 5,
+      "comment": {
+        "en": "Exceptional tour! Filip's knowledge of both Christian and Jewish history in Prague is extraordinary. The way he weaves together the stories of different communities was masterful. Highly recommend!",
+        "de": "Außergewöhnliche Tour! Filips Wissen über sowohl christliche als auch jüdische Geschichte in Prag ist außergewöhnlich. Die Art, wie er die Geschichten verschiedener Gemeinden miteinander verwebt, war meisterhaft. Sehr empfehlenswert!",
+        "fr": "Visite exceptionnelle ! La connaissance de Filip de l'histoire chrétienne et juive à Prague est extraordinaire. La façon dont il tisse ensemble les histoires de différentes communautés était magistrale. Hautement recommandé !"
+      },
+      "date": "2024-03-20T00:00:00.000Z",
+      "source": "google",
+      "verified": true
+    },
+    {
+      "id": "review-recent-2",
+      "customerName": "Anna Schmidt",
+      "customerLocation": "Vienna, Austria",
+      "tourId": "prague-castle",
+      "rating": 5,
+      "comment": {
+        "en": "The best tour guide in Prague! Filip's enthusiasm and deep knowledge made every moment fascinating. The castle tour was perfectly paced and full of surprising details.",
+        "de": "Der beste Tourguide in Prag! Filips Enthusiasmus und tiefes Wissen machten jeden Moment faszinierend. Die Burgtour war perfekt getaktet und voller überraschender Details.",
+        "fr": "Le meilleur guide touristique de Prague ! L'enthousiasme et les connaissances approfondies de Filip ont rendu chaque moment fascinant. La visite du château était parfaitement rythmée et pleine de détails surprenants."
+      },
+      "date": "2024-03-18T00:00:00.000Z",
+      "source": "tripadvisor",
+      "verified": true
+    },
+    {
+      "id": "review-recent-3",
+      "customerName": "Robert Taylor",
+      "customerLocation": "Toronto, Canada",
+      "tourId": "old-town-jewish-quarter",
+      "rating": 5,
+      "comment": {
+        "en": "Filip made history come alive with his incredible stories. The Jewish Quarter portion was particularly moving and educational. A must-do when visiting Prague!",
+        "de": "Filip erweckte die Geschichte mit seinen unglaublichen Geschichten zum Leben. Der Teil über das Jüdische Viertel war besonders bewegend und lehrreich. Ein Muss beim Besuch in Prag!",
+        "fr": "Filip a fait revivre l'histoire avec ses histoires incroyables. La partie sur le quartier juif était particulièrement émouvante et éducative. Un incontournable lors d'une visite à Prague !"
+      },
+      "date": "2024-03-16T00:00:00.000Z",
+      "source": "direct",
+      "verified": true
+    },
+    {
+      "id": "review-recent-4",
+      "customerName": "Marie Dubois",
+      "customerLocation": "Paris, France",
+      "tourId": "prague-castle",
+      "rating": 5,
+      "comment": {
+        "en": "An absolutely magical experience! Filip's storytelling transported us back in time. His knowledge of Prague's legends and history is remarkable. The perfect introduction to this beautiful city.",
+        "de": "Ein absolut magisches Erlebnis! Filips Geschichtenerzählen versetzte uns in die Vergangenheit. Sein Wissen über Prags Legenden und Geschichte ist bemerkenswert. Die perfekte Einführung in diese wunderschöne Stadt.",
+        "fr": "Une expérience absolument magique ! La narration de Filip nous a transportés dans le temps. Sa connaissance des légendes et de l'histoire de Prague est remarquable. L'introduction parfaite à cette belle ville."
+      },
+      "date": "2024-03-14T00:00:00.000Z",
+      "source": "google",
+      "verified": true
+    },
+    {
+      "id": "review-recent-5",
+      "customerName": "James Wilson",
+      "customerLocation": "Edinburgh, Scotland",
+      "tourId": "old-town-jewish-quarter",
+      "rating": 5,
+      "comment": {
+        "en": "Filip's tour was the highlight of our Prague trip. His passion for the city's history is evident in every story he tells. The Astronomical Clock explanation was fascinating, and the Jewish Quarter stories were deeply moving.",
+        "de": "Filips Tour war der Höhepunkt unserer Prag-Reise. Seine Leidenschaft für die Geschichte der Stadt zeigt sich in jeder Geschichte, die er erzählt. Die Erklärung der Astronomischen Uhr war faszinierend, und die Geschichten des Jüdischen Viertels waren zutiefst bewegend.",
+        "fr": "La visite de Filip a été le point culminant de notre voyage à Prague. Sa passion pour l'histoire de la ville est évidente dans chaque histoire qu'il raconte. L'explication de l'horloge astronomique était fascinante, et les histoires du quartier juif étaient profondément émouvantes."
+      },
+      "date": "2024-03-13T00:00:00.000Z",
+      "source": "tripadvisor",
+      "verified": true
+    }
+  ],
+  "statistics": {
+    "totalReviews": 127,
+    "averageRating": 4.9,
+    "fiveStarPercentage": 94,
+    "recommendationRate": 98,
+    "repeatCustomers": 23,
+    "languages": ["English", "German", "French", "Czech"],
+    "toursSince": "2019",
+    "happyCustomers": 1250
+  },
+  "sources": {
+    "google": {
+      "name": "Google Reviews",
+      "url": "https://g.page/r/filip-kareta-prague-guide/review",
+      "averageRating": 4.9,
+      "totalReviews": 67
+    },
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g274707-d123456-Reviews-Filip_Kareta_Prague_Tours.html",
+      "averageRating": 5.0,
+      "totalReviews": 45
+    },
+    "direct": {
+      "name": "Direct Bookings",
+      "averageRating": 4.8,
+      "totalReviews": 15
+    }
+  },
+  "categories": {
+    "storytelling": {
+      "name": {
+        "en": "Storytelling Excellence",
+        "de": "Geschichtenerzähl-Exzellenz",
+        "fr": "Excellence en narration"
+      },
+      "count": 89,
+      "percentage": 70
+    },
+    "knowledge": {
+      "name": {
+        "en": "Historical Knowledge",
+        "de": "Historisches Wissen",
+        "fr": "Connaissances historiques"
+      },
+      "count": 95,
+      "percentage": 75
+    },
+    "experience": {
+      "name": {
+        "en": "Overall Experience",
+        "de": "Gesamterlebnis",
+        "fr": "Expérience globale"
+      },
+      "count": 121,
+      "percentage": 95
+    },
+    "value": {
+      "name": {
+        "en": "Value for Money",
+        "de": "Preis-Leistungs-Verhältnis",
+        "fr": "Rapport qualité-prix"
+      },
+      "count": 98,
+      "percentage": 77
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "collections": {
+    "prague-castle": {
+      "name": {
+        "en": "Prague Castle Collection",
+        "de": "Prager Burg Sammlung",
+        "fr": "Collection Château de Prague"
+      },
+      "description": {
+        "en": "Authentic photographs capturing the majesty and mystery of Prague Castle through different seasons and lighting conditions.",
+        "de": "Authentische Fotografien, die die Majestät und das Geheimnis der Prager Burg durch verschiedene Jahreszeiten und Lichtverhältnisse einfangen.",
+        "fr": "Photographies authentiques capturant la majesté et le mystère du château de Prague à travers différentes saisons et conditions d'éclairage."
+      },
+      "images": [
+        {
+          "id": "castle-golden-hour",
+          "filename": "prague-castle-golden-hour.webp",
+          "url": "/images/gallery/prague-castle-golden-hour.webp",
+          "alt": {
+            "en": "Prague Castle bathed in golden sunset light with St. Vitus Cathedral spires",
+            "de": "Prager Burg im goldenen Sonnenuntergangslicht mit den Türmen des St. Veits-Doms",
+            "fr": "Château de Prague baigné dans la lumière dorée du coucher de soleil avec les flèches de la cathédrale Saint-Guy"
+          },
+          "caption": {
+            "en": "Golden hour magic at Prague Castle - the perfect time for photography",
+            "de": "Goldene Stunde Magie an der Prager Burg - die perfekte Zeit für Fotografie",
+            "fr": "Magie de l'heure dorée au château de Prague - le moment parfait pour la photographie"
+          },
+          "width": 1920,
+          "height": 1280,
+          "takenDate": "2024-02-15",
+          "camera": "Canon EOS R5",
+          "settings": "f/8, 1/125s, ISO 200",
+          "featured": true
+        },
+        {
+          "id": "st-vitus-interior",
+          "filename": "st-vitus-cathedral-interior.webp",
+          "url": "/images/gallery/st-vitus-cathedral-interior.webp",
+          "alt": {
+            "en": "Gothic arches and stained glass windows inside St. Vitus Cathedral",
+            "de": "Gotische Bögen und Buntglasfenster im Inneren des St. Veits-Doms",
+            "fr": "Arcs gothiques et vitraux à l'intérieur de la cathédrale Saint-Guy"
+          },
+          "width": 1280,
+          "height": 1920,
+          "takenDate": "2024-01-20",
+          "featured": false
+        },
+        {
+          "id": "golden-lane-winter",
+          "filename": "golden-lane-winter-snow.webp",
+          "url": "/images/gallery/golden-lane-winter-snow.webp",
+          "alt": {
+            "en": "Colorful houses of Golden Lane covered in fresh winter snow",
+            "de": "Bunte Häuser des Goldenen Gässchens bedeckt mit frischem Winterschnee",
+            "fr": "Maisons colorées de la Ruelle d'Or couvertes de neige fraîche d'hiver"
+          },
+          "width": 1600,
+          "height": 1067,
+          "takenDate": "2024-01-08",
+          "featured": true
+        }
+      ]
+    },
+    "old-town": {
+      "name": {
+        "en": "Old Town & Jewish Quarter",
+        "de": "Altstadt & Jüdisches Viertel",
+        "fr": "Vieille Ville & Quartier Juif"
+      },
+      "description": {
+        "en": "Intimate photographs showcasing the architectural beauty and cultural heritage of Prague's historic heart.",
+        "de": "Intime Fotografien, die die architektonische Schönheit und das kulturelle Erbe von Prags historischem Herzen zeigen.",
+        "fr": "Photographies intimes mettant en valeur la beauté architecturale et le patrimoine culturel du cœur historique de Prague."
+      },
+      "images": [
+        {
+          "id": "astronomical-clock-detail",
+          "filename": "astronomical-clock-detail.webp",
+          "url": "/images/gallery/astronomical-clock-detail.webp",
+          "alt": {
+            "en": "Intricate details of Prague's famous Astronomical Clock mechanism",
+            "de": "Komplizierte Details des berühmten Astronomischen Uhr-Mechanismus von Prag",
+            "fr": "Détails complexes du mécanisme de la célèbre horloge astronomique de Prague"
+          },
+          "width": 1200,
+          "height": 1600,
+          "takenDate": "2024-02-28",
+          "featured": true
+        },
+        {
+          "id": "old-jewish-cemetery",
+          "filename": "old-jewish-cemetery-atmospheric.webp",
+          "url": "/images/gallery/old-jewish-cemetery-atmospheric.webp",
+          "alt": {
+            "en": "Ancient weathered tombstones in the atmospheric Old Jewish Cemetery",
+            "de": "Alte verwitterte Grabsteine im atmosphärischen Alten Jüdischen Friedhof",
+            "fr": "Anciennes pierres tombales patinées dans l'atmosphérique ancien cimetière juif"
+          },
+          "width": 1400,
+          "height": 933,
+          "takenDate": "2024-02-10",
+          "featured": true
+        },
+        {
+          "id": "old-town-square-morning",
+          "filename": "old-town-square-morning-mist.webp",
+          "url": "/images/gallery/old-town-square-morning-mist.webp",
+          "alt": {
+            "en": "Old Town Square in early morning mist with Gothic and Baroque architecture",
+            "de": "Altstädter Ring im frühen Morgennebel mit gotischer und barocker Architektur",
+            "fr": "Place de la Vieille Ville dans la brume matinale avec architecture gothique et baroque"
+          },
+          "width": 1800,
+          "height": 1200,
+          "takenDate": "2024-03-05",
+          "featured": false
+        }
+      ]
+    },
+    "hidden-prague": {
+      "name": {
+        "en": "Hidden Prague Gems",
+        "de": "Versteckte Prag Juwelen",
+        "fr": "Joyaux Cachés de Prague"
+      },
+      "description": {
+        "en": "Secret corners and hidden treasures that reveal Prague's authentic character beyond the tourist trails.",
+        "de": "Geheime Ecken und versteckte Schätze, die Prags authentischen Charakter jenseits der Touristenpfade offenbaren.",
+        "fr": "Coins secrets et trésors cachés qui révèlent le caractère authentique de Prague au-delà des sentiers touristiques."
+      },
+      "images": [
+        {
+          "id": "vrtba-garden-terraces",
+          "filename": "vrtba-garden-baroque-terraces.webp",
+          "url": "/images/gallery/vrtba-garden-baroque-terraces.webp",
+          "alt": {
+            "en": "Baroque terraced gardens of Vrtba Garden with Prague Castle views",
+            "de": "Barocke Terrassengärten des Vrtba-Gartens mit Blick auf die Prager Burg",
+            "fr": "Jardins baroques en terrasses du jardin Vrtba avec vue sur le château de Prague"
+          },
+          "width": 1600,
+          "height": 1200,
+          "takenDate": "2024-02-25",
+          "featured": true
+        },
+        {
+          "id": "wallenstein-garden-peacock",
+          "filename": "wallenstein-garden-peacock.webp",
+          "url": "/images/gallery/wallenstein-garden-peacock.webp",
+          "alt": {
+            "en": "Peacock displaying in the baroque Wallenstein Garden",
+            "de": "Pfau, der sich im barocken Wallenstein-Garten zeigt",
+            "fr": "Paon faisant la roue dans le jardin baroque Wallenstein"
+          },
+          "width": 1200,
+          "height": 1800,
+          "takenDate": "2024-03-01",
+          "featured": false
+        },
+        {
+          "id": "lucerna-passage-ceiling",
+          "filename": "lucerna-passage-art-nouveau.webp",
+          "url": "/images/gallery/lucerna-passage-art-nouveau.webp",
+          "alt": {
+            "en": "Art Nouveau glass ceiling of the historic Lucerna Passage",
+            "de": "Jugendstil-Glasdecke der historischen Lucerna-Passage",
+            "fr": "Plafond de verre Art Nouveau du passage historique Lucerna"
+          },
+          "width": 1400,
+          "height": 1050,
+          "takenDate": "2024-02-18",
+          "featured": true
+        }
+      ]
+    }
+  },
+  "photographer": {
+    "name": "Filip Kareta",
+    "bio": {
+      "en": "Local Prague guide and passionate photographer capturing the authentic beauty of his beloved city through storytelling and visual narratives.",
+      "de": "Lokaler Prag-Guide und leidenschaftlicher Fotograf, der die authentische Schönheit seiner geliebten Stadt durch Geschichtenerzählen und visuelle Erzählungen einfängt.",
+      "fr": "Guide local de Prague et photographe passionné capturant la beauté authentique de sa ville bien-aimée à travers la narration et les récits visuels."
+    },
+    "equipment": [
+      "Canon EOS R5",
+      "Canon RF 24-70mm f/2.8L",
+      "Canon RF 16-35mm f/2.8L",
+      "DJI Mini 3 Pro (drone photography)"
+    ],
+    "specialties": [
+      "Golden hour photography",
+      "Architectural details",
+      "Street photography",
+      "Historical documentation"
+    ]
+  },
+  "usage": {
+    "licensing": {
+      "en": "All photographs are original works by Filip Kareta and are protected by copyright. Usage rights available for tourism and educational purposes.",
+      "de": "Alle Fotografien sind Originalwerke von Filip Kareta und urheberrechtlich geschützt. Nutzungsrechte verfügbar für Tourismus- und Bildungszwecke.",
+      "fr": "Toutes les photographies sont des œuvres originales de Filip Kareta et sont protégées par le droit d'auteur. Droits d'usage disponibles à des fins touristiques et éducatives."
+    },
+    "attribution": "© 2024 Filip Kareta - Prague Tour Guide",
+    "contact": "filip@guidefilip-prague.com"
+  }
+}

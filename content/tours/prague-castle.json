@@ -1,0 +1,440 @@
+{
+  "id": "prague-castle",
+  "slug": "prague-castle",
+  "title": {
+    "en": "Prague Castle: Stories of Kings & Legends",
+    "de": "Prager Burg: Geschichten von Königen & Legenden", 
+    "fr": "Château de Prague: Histoires de Rois & Légendes"
+  },
+  "description": {
+    "en": "Step into 1,000 years of history as we explore Prague Castle, the largest ancient castle complex in the world. Through captivating storytelling, discover the legends of Bohemian kings, the mysteries of St. Vitus Cathedral, and the secrets hidden within the castle walls. This isn't just a tour—it's a journey through time where every stone has a story to tell.",
+    "de": "Treten Sie ein in 1.000 Jahre Geschichte, während wir die Prager Burg erkunden, den größten antiken Burgkomplex der Welt. Durch fesselnde Geschichten entdecken Sie die Legenden böhmischer Könige, die Geheimnisse des St. Veits-Doms und die Geheimnisse, die sich hinter den Burgmauern verbergen. Das ist nicht nur eine Tour—es ist eine Zeitreise, bei der jeder Stein eine Geschichte zu erzählen hat.",
+    "fr": "Plongez dans 1 000 ans d'histoire en explorant le château de Prague, le plus grand complexe de château ancien au monde. À travers des récits captivants, découvrez les légendes des rois de Bohême, les mystères de la cathédrale Saint-Guy et les secrets cachés dans les murs du château. Ce n'est pas seulement une visite—c'est un voyage dans le temps où chaque pierre a une histoire à raconter."
+  },
+  "highlights": {
+    "en": [
+      "Explore the largest ancient castle complex in the world",
+      "Discover the stunning St. Vitus Cathedral and its Gothic architecture",
+      "Walk through the Old Royal Palace and Vladislav Hall",
+      "Visit the charming Golden Lane with its colorful houses",
+      "Learn about 1,000 years of Czech history and royal legends",
+      "Enjoy panoramic views over Prague's red rooftops",
+      "Hear fascinating stories about Bohemian kings and emperors"
+    ],
+    "de": [
+      "Erkunden Sie den größten antiken Burgkomplex der Welt",
+      "Entdecken Sie den atemberaubenden St. Veits-Dom und seine gotische Architektur",
+      "Spazieren Sie durch den Alten Königspalast und die Vladislav-Halle",
+      "Besuchen Sie das charmante Goldene Gässchen mit seinen bunten Häusern",
+      "Erfahren Sie mehr über 1.000 Jahre tschechische Geschichte und königliche Legenden",
+      "Genießen Sie Panoramablicke über Prags rote Dächer",
+      "Hören Sie faszinierende Geschichten über böhmische Könige und Kaiser"
+    ],
+    "fr": [
+      "Explorez le plus grand complexe de château ancien au monde",
+      "Découvrez la magnifique cathédrale Saint-Guy et son architecture gothique",
+      "Promenez-vous dans l'Ancien Palais Royal et la salle Vladislav",
+      "Visitez la charmante Ruelle d'Or avec ses maisons colorées",
+      "Apprenez 1 000 ans d'histoire tchèque et de légendes royales",
+      "Profitez de vues panoramiques sur les toits rouges de Prague",
+      "Écoutez des histoires fascinantes sur les rois et empereurs de Bohême"
+    ]
+  },
+  "duration": 180,
+  "maxGroupSize": 12,
+  "basePrice": 45,
+  "currency": "EUR",
+  "difficulty": "easy",
+  "images": [
+    {
+      "id": "castle-main",
+      "url": "/images/tours/prague-castle-main.webp",
+      "alt": {
+        "en": "Prague Castle complex with St. Vitus Cathedral towering above",
+        "de": "Prager Burg-Komplex mit dem St. Veits-Dom, der darüber aufragt",
+        "fr": "Complexe du château de Prague avec la cathédrale Saint-Guy qui domine"
+      },
+      "caption": {
+        "en": "The magnificent Prague Castle, seat of Czech kings for over 1,000 years",
+        "de": "Die prächtige Prager Burg, Sitz der tschechischen Könige seit über 1.000 Jahren",
+        "fr": "Le magnifique château de Prague, siège des rois tchèques depuis plus de 1 000 ans"
+      },
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "id": "st-vitus-cathedral",
+      "url": "/images/tours/st-vitus-cathedral.webp",
+      "alt": {
+        "en": "Gothic spires of St. Vitus Cathedral reaching toward the sky",
+        "de": "Gotische Türme des St. Veits-Doms, die zum Himmel reichen",
+        "fr": "Flèches gothiques de la cathédrale Saint-Guy s'élevant vers le ciel"
+      },
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "id": "golden-lane",
+      "url": "/images/tours/golden-lane.webp",
+      "alt": {
+        "en": "Colorful medieval houses along the famous Golden Lane",
+        "de": "Bunte mittelalterliche Häuser entlang des berühmten Goldenen Gässchens",
+        "fr": "Maisons médiévales colorées le long de la célèbre Ruelle d'Or"
+      },
+      "width": 1000,
+      "height": 600
+    }
+  ],
+  "route": [
+    {
+      "lat": 50.0909,
+      "lng": 14.4009,
+      "name": {
+        "en": "Castle Main Gate",
+        "de": "Haupttor der Burg",
+        "fr": "Porte principale du château"
+      }
+    },
+    {
+      "lat": 50.0907,
+      "lng": 14.4006,
+      "name": {
+        "en": "First Courtyard",
+        "de": "Erster Burghof",
+        "fr": "Première cour"
+      }
+    },
+    {
+      "lat": 50.0904,
+      "lng": 14.4003,
+      "name": {
+        "en": "St. Vitus Cathedral",
+        "de": "St. Veits-Dom",
+        "fr": "Cathédrale Saint-Guy"
+      }
+    },
+    {
+      "lat": 50.0901,
+      "lng": 14.4001,
+      "name": {
+        "en": "Old Royal Palace",
+        "de": "Alter Königspalast",
+        "fr": "Ancien Palais Royal"
+      }
+    },
+    {
+      "lat": 50.0898,
+      "lng": 14.4005,
+      "name": {
+        "en": "Golden Lane",
+        "de": "Goldenes Gässchen",
+        "fr": "Ruelle d'Or"
+      }
+    }
+  ],
+  "availability": [
+    {
+      "dayOfWeek": 1,
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 1,
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 2,
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 2,
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 3,
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 3,
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 4,
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 4,
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 5,
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 5,
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 6,
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "maxBookings": 2
+    },
+    {
+      "dayOfWeek": 6,
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "maxBookings": 2
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review-1",
+      "tourId": "prague-castle",
+      "customerName": "Sarah M.",
+      "rating": 5,
+      "comment": "Filip's storytelling brought Prague Castle to life! His knowledge of history and local legends made this tour absolutely unforgettable. Highly recommend!",
+      "date": "2024-03-15T00:00:00.000Z",
+      "source": "google",
+      "verified": true
+    },
+    {
+      "id": "review-2", 
+      "tourId": "prague-castle",
+      "customerName": "Michael K.",
+      "rating": 5,
+      "comment": "Best tour guide in Prague! Filip's passion for his city is infectious. The castle tour was informative, entertaining, and perfectly paced.",
+      "date": "2024-03-10T00:00:00.000Z",
+      "source": "tripadvisor",
+      "verified": true
+    },
+    {
+      "id": "review-3",
+      "tourId": "prague-castle",
+      "customerName": "Emma L.",
+      "rating": 5,
+      "comment": "Filip made history come alive with his incredible stories. The castle tour exceeded all expectations. A must-do when visiting Prague!",
+      "date": "2024-03-08T00:00:00.000Z",
+      "source": "direct",
+      "verified": true
+    }
+  ],
+  "seoMetadata": {
+    "title": {
+      "en": "Prague Castle Tour with Local Guide Filip | Historical Storytelling Experience",
+      "de": "Prager Burg Tour mit lokalem Guide Filip | Historisches Storytelling-Erlebnis",
+      "fr": "Visite du Château de Prague avec le guide local Filip | Expérience de narration historique"
+    },
+    "description": {
+      "en": "Explore Prague Castle with expert local guide Filip Kareta. Discover 1,000 years of history through captivating storytelling. Small groups, authentic experiences. Book your Prague Castle tour today!",
+      "de": "Erkunden Sie die Prager Burg mit dem lokalen Experten-Guide Filip Kareta. Entdecken Sie 1.000 Jahre Geschichte durch fesselnde Geschichten. Kleine Gruppen, authentische Erlebnisse. Buchen Sie heute Ihre Prager Burg-Tour!",
+      "fr": "Explorez le château de Prague avec le guide local expert Filip Kareta. Découvrez 1 000 ans d'histoire à travers des récits captivants. Petits groupes, expériences authentiques. Réservez votre visite du château de Prague aujourd'hui!"
+    },
+    "keywords": [
+      "Prague Castle tour",
+      "Prague guide",
+      "Czech history",
+      "St. Vitus Cathedral",
+      "Golden Lane",
+      "Prague sightseeing",
+      "local guide Prague",
+      "castle tour Prague",
+      "historical tour",
+      "storytelling tour"
+    ],
+    "ogImage": "/images/tours/prague-castle-og.jpg",
+    "canonicalUrl": "/tours/prague-castle"
+  },
+  "detailedItinerary": {
+    "en": [
+      {
+        "time": "10:00",
+        "location": "Castle Main Gate",
+        "activity": "Meet your guide and receive introduction to Prague Castle's 1,000-year history",
+        "duration": 15
+      },
+      {
+        "time": "10:15",
+        "location": "First Courtyard",
+        "activity": "Learn about the castle's architectural evolution and the changing of the guard ceremony",
+        "duration": 20
+      },
+      {
+        "time": "10:35",
+        "location": "St. Vitus Cathedral",
+        "activity": "Explore the Gothic masterpiece, see the Crown Jewels chamber, and hear legends of St. Wenceslas",
+        "duration": 45
+      },
+      {
+        "time": "11:20",
+        "location": "Old Royal Palace",
+        "activity": "Walk through Vladislav Hall and learn about coronation ceremonies and royal banquets",
+        "duration": 30
+      },
+      {
+        "time": "11:50",
+        "location": "Golden Lane",
+        "activity": "Discover the medieval street where alchemists once worked and Franz Kafka lived",
+        "duration": 25
+      },
+      {
+        "time": "12:15",
+        "location": "Castle Gardens",
+        "activity": "Enjoy panoramic views of Prague and hear final stories about the castle's modern role",
+        "duration": 15
+      }
+    ],
+    "de": [
+      {
+        "time": "10:00",
+        "location": "Haupttor der Burg",
+        "activity": "Treffen Sie Ihren Guide und erhalten Sie eine Einführung in die 1.000-jährige Geschichte der Prager Burg",
+        "duration": 15
+      },
+      {
+        "time": "10:15",
+        "location": "Erster Burghof",
+        "activity": "Erfahren Sie mehr über die architektonische Entwicklung der Burg und die Wachablösung",
+        "duration": 20
+      },
+      {
+        "time": "10:35",
+        "location": "St. Veits-Dom",
+        "activity": "Erkunden Sie das gotische Meisterwerk, sehen Sie die Kronschatz-Kammer und hören Sie Legenden über den heiligen Wenzel",
+        "duration": 45
+      },
+      {
+        "time": "11:20",
+        "location": "Alter Königspalast",
+        "activity": "Gehen Sie durch die Vladislav-Halle und erfahren Sie mehr über Krönungszeremonien und königliche Bankette",
+        "duration": 30
+      },
+      {
+        "time": "11:50",
+        "location": "Goldenes Gässchen",
+        "activity": "Entdecken Sie die mittelalterliche Straße, in der einst Alchemisten arbeiteten und Franz Kafka lebte",
+        "duration": 25
+      },
+      {
+        "time": "12:15",
+        "location": "Burggärten",
+        "activity": "Genießen Sie Panoramablicke auf Prag und hören Sie abschließende Geschichten über die moderne Rolle der Burg",
+        "duration": 15
+      }
+    ],
+    "fr": [
+      {
+        "time": "10:00",
+        "location": "Porte principale du château",
+        "activity": "Rencontrez votre guide et recevez une introduction à l'histoire millénaire du château de Prague",
+        "duration": 15
+      },
+      {
+        "time": "10:15",
+        "location": "Première cour",
+        "activity": "Apprenez l'évolution architecturale du château et la cérémonie de la relève de la garde",
+        "duration": 20
+      },
+      {
+        "time": "10:35",
+        "location": "Cathédrale Saint-Guy",
+        "activity": "Explorez le chef-d'œuvre gothique, voyez la chambre des joyaux de la couronne et écoutez les légendes de saint Venceslas",
+        "duration": 45
+      },
+      {
+        "time": "11:20",
+        "location": "Ancien Palais Royal",
+        "activity": "Promenez-vous dans la salle Vladislav et apprenez les cérémonies de couronnement et les banquets royaux",
+        "duration": 30
+      },
+      {
+        "time": "11:50",
+        "location": "Ruelle d'Or",
+        "activity": "Découvrez la rue médiévale où travaillaient autrefois les alchimistes et où vécut Franz Kafka",
+        "duration": 25
+      },
+      {
+        "time": "12:15",
+        "location": "Jardins du château",
+        "activity": "Profitez de vues panoramiques sur Prague et écoutez les dernières histoires sur le rôle moderne du château",
+        "duration": 15
+      }
+    ]
+  },
+  "includedServices": {
+    "en": [
+      "Expert local guide with storytelling expertise",
+      "Skip-the-line access to castle grounds",
+      "Professional historical commentary",
+      "Small group experience (max 12 people)",
+      "Digital tour materials and map",
+      "Photo opportunities at best viewpoints",
+      "Insider tips for exploring Prague"
+    ],
+    "de": [
+      "Experten-Lokalguide mit Storytelling-Expertise",
+      "Bevorzugter Zugang zum Burggelände",
+      "Professionelle historische Kommentare",
+      "Kleingruppenerlebnis (max. 12 Personen)",
+      "Digitale Tourmaterialien und Karte",
+      "Fotomöglichkeiten an den besten Aussichtspunkten",
+      "Insider-Tipps zur Erkundung Prags"
+    ],
+    "fr": [
+      "Guide local expert avec expertise en narration",
+      "Accès coupe-file aux terrains du château",
+      "Commentaires historiques professionnels",
+      "Expérience en petit groupe (max 12 personnes)",
+      "Matériaux de visite numériques et carte",
+      "Opportunités photo aux meilleurs points de vue",
+      "Conseils d'initiés pour explorer Prague"
+    ]
+  },
+  "meetingPoint": {
+    "en": "Castle Main Gate (Hradčanské náměstí), next to the information board",
+    "de": "Haupttor der Burg (Hradčanské náměstí), neben der Informationstafel",
+    "fr": "Porte principale du château (Hradčanské náměstí), à côté du panneau d'information"
+  },
+  "importantNotes": {
+    "en": [
+      "Comfortable walking shoes recommended",
+      "Tour operates in all weather conditions",
+      "Castle entrance fees not included (optional)",
+      "Photography allowed in most areas",
+      "Tour conducted in English with multilingual support"
+    ],
+    "de": [
+      "Bequeme Wanderschuhe empfohlen",
+      "Tour findet bei jedem Wetter statt",
+      "Burgeintrittsgebühren nicht inbegriffen (optional)",
+      "Fotografieren in den meisten Bereichen erlaubt",
+      "Tour auf Englisch mit mehrsprachiger Unterstützung"
+    ],
+    "fr": [
+      "Chaussures de marche confortables recommandées",
+      "La visite a lieu par tous les temps",
+      "Frais d'entrée au château non inclus (optionnel)",
+      "Photographie autorisée dans la plupart des zones",
+      "Visite en anglais avec support multilingue"
+    ]
+  }
+}

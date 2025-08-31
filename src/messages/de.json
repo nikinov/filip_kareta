@@ -1,0 +1,77 @@
+{
+  "error": {
+    "title": "Etwas ist schiefgelaufen",
+    "description": "Wir sind auf einen unerwarteten Fehler gestoßen. Bitte versuchen Sie, die Seite zu aktualisieren oder kontaktieren Sie uns, wenn das Problem weiterhin besteht.",
+    "tryAgain": "Erneut versuchen",
+    "goHome": "Zur Startseite",
+    "contactPrompt": "Falls das Problem weiterhin besteht, kontaktieren Sie uns:",
+    "contactSupport": "Support kontaktieren",
+    "alternativeContact": "Oder kontaktieren Sie uns direkt:",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "technicalDetails": "Technische Details",
+    "errorId": "Fehler-ID"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Es sieht so aus, als wären Sie vom Weg abgekommen! Diese Seite existiert nicht, aber Prag hat viele erstaunliche Orte zu erkunden.",
+    "goHome": "Zur Startseite",
+    "homeDescription": "Beginnen Sie Ihre Prag-Reise",
+    "browseTours": "Touren durchsuchen",
+    "toursDescription": "Entdecken Sie Prag-Erlebnisse",
+    "popularPages": "Beliebte Seiten",
+    "pragueCastle": "Prager Burg Tour",
+    "castleDescription": "Erkunden Sie 1000 Jahre Geschichte",
+    "oldTown": "Altstadtrundgang",
+    "oldTownDescription": "Mittelalterliche Straßen und Legenden",
+    "jewishQuarter": "Jüdisches Viertel Tour",
+    "jewishDescription": "Geschichten von Widerstandsfähigkeit und Kultur",
+    "aboutFilip": "Über Filip",
+    "aboutDescription": "Lernen Sie Ihren Prag-Geschichtenerzähler kennen",
+    "readyToExplore": "Bereit, Prag zu erkunden?",
+    "bookingPrompt": "Begleiten Sie Filip für ein unvergessliches Geschichtenerzähler-Erlebnis durch Prags historische Straßen.",
+    "viewAllTours": "Alle Touren anzeigen",
+    "helpText": "Wenn Sie nach etwas Bestimmtem gesucht haben, versuchen Sie unsere Suche oder durchsuchen Sie unsere Touren oben."
+  },
+  "offline": {
+    "title": "Sie sind offline",
+    "description": "Keine Internetverbindung erkannt. Sie können weiterhin zwischengespeicherte Tourinformationen durchsuchen, aber für Buchungen ist eine Internetverbindung erforderlich.",
+    "offlineFeatures": "Offline verfügbar:",
+    "browseTours": "Tourinformationen durchsuchen",
+    "readBlog": "Blog-Beiträge lesen",
+    "viewPhotos": "Zwischengespeicherte Fotos anzeigen",
+    "contactInfo": "Kontaktinformationen abrufen",
+    "checkConnection": "Verbindung prüfen",
+    "emergencyContact": "Für dringende Buchungen rufen Sie direkt an:",
+    "connectionLost": "Verbindung verloren",
+    "limitedFunctionality": "Einige Funktionen können eingeschränkt sein",
+    "availableOffline": "Offline verfügbar:",
+    "features": {
+      "tourInfo": "Zwischengespeicherte Tourinformationen durchsuchen",
+      "blogPosts": "Gespeicherte Blog-Beiträge lesen",
+      "aboutPage": "Filips Profil und Geschichte anzeigen",
+      "contactInfo": "Kontaktinformationen abrufen"
+    },
+    "popularTours": "Beliebte Touren (Zwischengespeicherte Infos)",
+    "bookingContact": {
+      "title": "Bereit zu buchen? Kontaktieren Sie Filip direkt:",
+      "phone": {
+        "title": "Jetzt anrufen",
+        "hours": "Verfügbar 9-18 Uhr MEZ"
+      },
+      "email": {
+        "title": "E-Mail senden",
+        "response": "Antwort innerhalb von 24 Stunden"
+      }
+    },
+    "bookingTemplate": {
+      "title": "Bitte geben Sie bei der Kontaktaufnahme an:",
+      "tour": "Für welche Tour Sie sich interessieren",
+      "date": "Ihr bevorzugtes Datum und Uhrzeit",
+      "group": "Anzahl der Personen in Ihrer Gruppe",
+      "language": "Bevorzugte Toursprache (EN/DE/FR)",
+      "contact": "Ihre Kontaktinformationen"
+    },
+    "helpText": "Diese Seite wird automatisch aktualisiert, wenn Ihre Internetverbindung wiederhergestellt ist."
+  }
+}

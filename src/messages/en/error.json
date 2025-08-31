@@ -1,0 +1,13 @@
+{
+  "title": "Something went wrong",
+  "description": "We encountered an unexpected error. Please try refreshing the page or contact us if the problem persists.",
+  "tryAgain": "Try Again",
+  "goHome": "Go Home",
+  "contactPrompt": "If the problem persists, please contact us:",
+  "contactSupport": "Contact Support",
+  "alternativeContact": "Or reach out directly:",
+  "phone": "Phone",
+  "email": "Email",
+  "technicalDetails": "Technical Details",
+  "errorId": "Error ID"
+}

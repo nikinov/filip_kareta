@@ -1,0 +1,211 @@
+{
+  "navigation": {
+    "home": "Domů",
+    "tours": "Prohlídky",
+    "blog": "Blog",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "book": "Rezervovat"
+  },
+  "homepage": {
+    "seo": {
+      "title": "Filip Kareta - Prag Reiseführer | Authentische Geschichtenerzähl-Touren",
+      "description": "Entdecken Sie Prag durch authentische Geschichtenerzähl-Touren mit dem lokalen Guide Filip Kareta. Erleben Sie versteckte Juwelen, faszinierende Geschichte und lokale Kultur mit personalisierten Stadtrundgängen.",
+      "keywords": "Prag Reiseführer, Prag Stadtrundgänge, Prager Burg Touren, Altstadt Prag, Jüdisches Viertel Prag, Prag Geschichte Touren, lokaler Prag Guide, authentische Prag Erfahrung, Prag Geschichtenerzähl-Touren, private Prag Touren"
+    },
+    "hero": {
+      "title": "Objevte Prahu prostřednictvím příběhů",
+      "subtitle": "Připojte se k Filipovi na autentických procházkách, které oživují historii Prahy prostřednictvím poutavého vyprávění",
+      "primaryCta": "Rezervovat prohlídku",
+      "secondaryCta": "Sledovat video"
+    },
+    "featuredTours": {
+      "title": "Doporučené prohlídky",
+      "subtitle": "Zažijte Prahu jako nikdy předtím s našimi nejoblíbenějšími dobrodružstvími plnými příběhů",
+      "bookNow": "Rezervovat nyní",
+      "viewAllCta": "Zobrazit všechny prohlídky"
+    },
+    "socialProof": {
+      "title": "Co říkají naši hosté",
+      "subtitle": "Skutečné zážitky cestovatelů, kteří objevili Prahu s Filipem"
+    },
+    "aboutFilip": {
+      "label": "Váš průvodce",
+      "title": "Poznejte Filipa, vašeho pražského vypravěče",
+      "description1": "Filip se narodil a vyrůstal v Praze a již více než 12 let sdílí kouzlo svého města. Jako licencovaný průvodce s vášní pro vyprávění příběhů proměňuje každou prohlídku v nezapomenutelnou cestu časem.",
+      "description2": "Od legend Pražského hradu až po tajemství Starého Města, Filipovy autentické příběhy odhalují duši Prahy, kterou průvodci nezachytí.",
+      "quote": "Každý kámen v Praze má svůj příběh. Mým úkolem je pomoci vám naslouchat.",
+      "primaryCta": "Rezervovat prohlídku s Filipem",
+      "secondaryCta": "Číst Filipův příběh",
+      "followLabel": "Sledujte Filipova pražská dobrodružství"
+    }
+  },
+  "tours": {
+    "seo": {
+      "title": "Pražské prohlídky | Autentické procházky s Filipem Karetou",
+      "description": "Prozkoumejte Prahu s autentickými procházkami vedenými místním průvodcem Filipem Karetou. Vyberte si z prohlídek Pražského hradu, Starého Města, Židovské čtvrti a dalších. Rezervujte si své dobrodružství plné příběhů ještě dnes.",
+      "keywords": "Pražské prohlídky, pražské procházky, prohlídka Pražského hradu, prohlídka Starého Města, prohlídka Židovské čtvrti, pražský průvodce, pražské památky, historické prohlídky Prahy, autentické pražské prohlídky, soukromé pražské prohlídky"
+    },
+    "title": "Pražské prohlídky",
+    "subtitle": "Vyberte si své dobrodružství",
+    "viewAll": "Alle Touren ansehen",
+    "duration": "Dauer",
+    "groupSize": "Max. Gruppengröße",
+    "difficulty": "Schwierigkeit",
+    "from": "Ab",
+    "bookNow": "Jetzt buchen",
+    "learnMore": "Mehr erfahren",
+    "viewDetails": "Details ansehen",
+    "price": "Preis",
+    "person": "Person",
+    "people": "Personen",
+    "reviews": "Bewertungen",
+    "highlights": "Höhepunkte",
+    "included": "Inbegriffen",
+    "meetingPoint": "Treffpunkt",
+    "importantNotes": "Wichtige Hinweise",
+    "itinerary": "Detaillierter Ablauf",
+    "nextAvailable": "Nächster verfügbarer Termin",
+    "spotsLeft": "Plätze frei",
+    "fullyBooked": "Ausgebucht",
+    "available": "Verfügbar",
+    "easy": "Einfach",
+    "moderate": "Mittel",
+    "challenging": "Anspruchsvoll"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "tours": "Touren",
+    "about": "Über Filip",
+    "contact": "Kontakt",
+    "book": "Buchen",
+    "blog": "Blog",
+    "settings": "Einstellungen",
+    "installApp": "App installieren",
+    "enableNotifications": "Benachrichtigungen aktivieren"
+  },
+  "pwa": {
+    "updateAvailable": "Update verfügbar",
+    "updateDescription": "Eine neue Version der App ist verfügbar mit Verbesserungen und Fehlerbehebungen.",
+    "update": "Aktualisieren",
+    "updating": "Wird aktualisiert...",
+    "later": "Später",
+    "updateInstalled": "App aktualisiert!",
+    "updateInstalledDescription": "Sie verwenden jetzt die neueste Version.",
+    "updateError": "Update-Fehler",
+    "installPromptTitle": "Prag Touren App installieren",
+    "installPromptDescription": "Erleben Sie die volle Funktionalität mit Offline-Zugang und schnellerem Laden!",
+    "install": "Installieren",
+    "offlineAccess": "Offline-Zugang",
+    "fastLoading": "Schnelles Laden",
+    "nativeFeel": "Native Erfahrung"
+  },
+  "booking": {
+    "title": "Tour buchen",
+    "selectDate": "Datum wählen",
+    "selectTime": "Zeit wählen",
+    "selectDateTime": "Datum & Zeit wählen",
+    "groupSize": "Gruppengröße",
+    "howManyPeople": "Wie viele Personen?",
+    "yourDetails": "Ihre Angaben",
+    "yourInformation": "Ihre Informationen",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefonnummer",
+    "specialRequests": "Besondere Wünsche",
+    "specialRequestsPlaceholder": "Diätbeschränkungen, Mobilitätsbedürfnisse oder besondere Interessen?",
+    "contactInfo": "Kontaktinformationen",
+    "payment": "Zahlung",
+    "confirmation": "Bestätigung",
+    "reviewBooking": "Überprüfen & Bestätigen",
+    "reviewYourBooking": "Buchung überprüfen",
+    "date": "Datum",
+    "time": "Zeit",
+    "name": "Name",
+    "total": "Gesamt",
+    "confirmBooking": "Buchung bestätigen",
+    "booking": "Wird gebucht...",
+    "bookingConfirmation": "Mit der Bestätigung stimmen Sie unseren Geschäftsbedingungen zu. Sie erhalten in Kürze eine Bestätigungs-E-Mail.",
+    "mobileBookingTip": "Tipp: Sie können diese Buchung als Entwurf speichern und später abschließen.",
+    "bookingSuccess": "Buchung bestätigt!",
+    "bookingSuccessMessage": "Vielen Dank für Ihre Buchung bei Filip! Sie erhalten in Kürze eine Bestätigungs-E-Mail mit allen Details.",
+    "bookingError": "Buchung fehlgeschlagen",
+    "bookingErrorMessage": "Es tut uns leid, aber bei der Bearbeitung Ihrer Buchung ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt.",
+    "paymentRequired": "Zahlung erforderlich",
+    "paymentProcessing": "Zahlung wird bearbeitet...",
+    "paymentSuccess": "Zahlung erfolgreich",
+    "paymentError": "Zahlung fehlgeschlagen"
+  },
+  "common": {
+    "loading": "Lädt...",
+    "error": "Etwas ist schief gelaufen",
+    "retry": "Erneut versuchen",
+    "close": "Schließen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "submit": "Absenden",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "confirm": "Bestätigen",
+    "yes": "Ja",
+    "no": "Nein",
+    "ok": "OK",
+    "back": "Zurück",
+    "continue": "Fortfahren",
+    "finish": "Fertigstellen"
+  },
+  "about": {
+    "seo": {
+      "title": "Über Filip Kareta | Ihr Prag Geschichtenerzähl-Guide",
+      "description": "Lernen Sie Filip Kareta kennen, Ihren lokalen Prag Reiseführer mit über 12 Jahren Erfahrung. Entdecken Sie authentische Geschichten und versteckte Juwelen von Prag mit einem leidenschaftlichen lokalen Geschichtenerzähler.",
+      "keywords": "Filip Kareta, Prag Reiseführer, lokaler Guide Prag, Prag Geschichtenerzähler, authentische Prag Touren, lizenzierter Prag Guide, Prag Geschichte Experte, lokale Prag Erfahrung"
+    },
+    "title": "Über Filip",
+    "subtitle": "Ihr lokaler Geschichtenerzähl-Guide",
+    "sectionTitle": "Leidenschaftlicher Prag Geschichtenerzähler",
+    "description1": "Mit über 10 Jahren Erfahrung beim Führen von Besuchern durch Prags bezaubernde Straßen erweckt Filip die Geschichte durch fesselnde Geschichten und lokale Einblicke zum Leben, die Sie in keinem Reiseführer finden werden.",
+    "description2": "Geboren und aufgewachsen in Prag, hat Filip ein intimes Wissen über die versteckten Juwelen, legendären Geschichten und kulturellen Nuancen der Stadt, die jede Tour zu einem einzigartigen und unvergesslichen Erlebnis machen.",
+    "credential1": "Lizenzierter Prag Reiseführer",
+    "credential2": "Fließend in Englisch, Deutsch und Tschechisch",
+    "credential3": "1000+ Glückliche Reisende"
+  },
+  "blog": {
+    "seo": {
+      "title": "Prag Geschichten & Reisetipps | Filip Karetas Blog",
+      "description": "Entdecken Sie Prag durch lokale Geschichten, Reisetipps und Insider-Guides. Von versteckten Aussichtspunkten bis zu Essensempfehlungen, erkunden Sie Prag wie ein Einheimischer mit Filip Kareta.",
+      "keywords": "Prag Blog, Prag Reisetipps, Prag Geschichten, Prag Essen Guide, Prag Geschichte, Prag Fotografie, lokaler Prag Guide, Prag Insider Tipps, Tschechische Kultur, Prag Legenden"
+    },
+    "title": "Prag Geschichten & Einblicke",
+    "subtitle": "Entdecken Sie die Magie von Prag durch lokale Geschichten, Insider-Tipps und authentische Erfahrungen, geteilt von Ihrem Guide Filip Kareta.",
+    "search": {
+      "placeholder": "Blog-Beiträge durchsuchen..."
+    },
+    "archive": {
+      "title": "Blog-Archiv",
+      "description": "Durchsuchen Sie alle Prag-Geschichten und Reise-Einblicke, organisiert nach Datum. Entdecken Sie versteckte Juwelen, lokale Tipps und faszinierende Geschichten aus Filips Jahren als Guide in Prag."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Filip Kareta - Prag Reiseführer. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
+  },
+  "offlineTitle": "Sie sind offline",
+  "offlineDescription": "Keine Internetverbindung erkannt. Sie können weiterhin zwischengespeicherte Tourinformationen durchsuchen, aber für Buchungen ist eine Internetverbindung erforderlich.",
+  "offlineFeatures": "Offline verfügbar:",
+  "offlineBrowseTours": "Tourinformationen durchsuchen",
+  "offlineReadBlog": "Blog-Beiträge lesen",
+  "offlineViewPhotos": "Zwischengespeicherte Fotos anzeigen",
+  "offlineContactInfo": "Kontaktinformationen abrufen",
+  "offlineCheckConnection": "Verbindung prüfen",
+  "offlineEmergencyContact": "Für dringende Buchungen rufen Sie direkt an:",
+  "offlineConnectionLost": "Verbindung verloren",
+  "offlineLimitedFunctionality": "Einige Funktionen können eingeschränkt sein",
+  "notFoundTitle": "Seite nicht gefunden",
+  "notFoundDescription": "Es sieht so aus, als wären Sie vom Weg abgekommen! Diese Seite existiert nicht, aber Prag hat viele erstaunliche Orte zu erkunden.",
+  "notFoundGoHome": "Zur Startseite",
+  "notFoundBrowseTours": "Touren durchsuchen"
+}
